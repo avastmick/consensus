@@ -1,0 +1,12 @@
+cover-image:  bookcover.jpg
+stylesheet:  stylesheet.css
+
+title:
+- type: main
+  text: Consensus
+- type: subtitle
+  text: The near future is connected
+
+identifier:
+publisher:  avastmick
+rights:  (c) 2017 Michael W Clarke
