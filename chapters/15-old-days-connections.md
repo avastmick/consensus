@@ -1,3 +1,5 @@
+# old days connections
+
 Sally and her mother re-connect. It is beautiful.
 
 But the lack of control Joan has over Sally and all that is happening makes her bitter. She hates the digital means of connecting to Sally, worse though she has lost her immediate role of what she sees is a mother: a guide and instructor, someone who tells the child what she needs to do.
@@ -42,3 +44,4 @@ He felt a touch on his arm and removed the googles. Joan was looking up at him, 
 "Grandad's right. That dress would never do up!"
 "Mum!"
 "What? You're ten now! Big girl."
+

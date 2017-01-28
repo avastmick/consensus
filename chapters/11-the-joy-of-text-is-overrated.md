@@ -1,3 +1,5 @@
+# the joy of text is overrated
+
 Sally is improving rapidly. Her body's health responds to the nourishment her mind is being provided.
 
 "Her improvement is remarkable. We can clearly see her mental states now - whether she is awake or asleep or whether she is sleeping. I am so happy for you."
@@ -5,3 +7,4 @@ Grandad looked at her hard, "Happy for yourself too, no doubt. She's your ultima
 "I don't understand. What option do you have? You're happy with how she is? You're happy with her just surfing the Internet all day and watching videos of the world about her. She wants interaction. She is smart and has worked it out. If she is stuck physically as she is, she will never be able to live any sort of fulfilled life. She wants more than to be able to message people. She wants to see them directly and that they see her."
 
 Ends with ...
+

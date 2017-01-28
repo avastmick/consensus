@@ -1,3 +1,5 @@
+# we are connected
+
 I had a nice fish masala knocked up in no time. A rice cooker helped with the rice - I can't see why anyone would not own one. I then rolled out some dough I had mixed together earlier and cooked the chapattis on a hot frying pan. Gray was lounging back on the sofa with a bottle of beer in her hand. Somehow, I could tell she was not alone. "Let's eat, Gray." I loaded the table up with stuff I'd cooked. I was pretty happy with it. "Is it good?" I asked. "Hey give me a chance, Charles, it looks good though, I wouldn't have thought." She scooped up a piece of fish with her bread. "Hmmm, mmmh, yep, that's good." She ate quickly and neatly. We didn't say much. I was pleased the food had gone down well. She sat back and sipped from her beer bottle. "Let's go and relax. This can wait." I gestured at the dishes on the table. I grabbed another couple of beers from the fridge and flopped down on he sofa with Gray.
 
 "So, let's continue then. As I said, there were five of us. Bright Futures was initially a bit pissed at the whole Internet connection to the brain thing. They were hardcore science nuts, we were messing with their experiment. But, they came round after a bit. They looked at the cables and worked with Alan and Simon on the firmware. Then Brandon, the other member of our little gang, floated the idea of us directly connecting. Until that point we were pretty good on the Internet, but we weren't really any different in the way we used it from anyone else, just faster. Brandon thought if we could push the raw data through a connection, without it being translated to IP, we could get more through it. Brain to brain so to speak." Gray laughed at that, as if sharing a private joke. "It's pretty basic computer science really,' she continued. "One system interfaces to another generally through an agreed means of translation. This is fine, but limits the scope of what can be shared. Add new types of data in one system and you may not be able to share it with another, without first changing the translation layer. So, change is expensive. Now if we could know that both systems are identical, with the same processes and architecture, we could lose the translation layer entirely. The data could be raw and not narrowed down by rigid structures. Surely, one brain could interpret data from another brain, if you can get that data into it.
@@ -10,6 +12,8 @@ I had a nice fish masala knocked up in no time. A rice cooker helped with the ri
 It didn't take long for us all to start thinking about connecting to each other. The inconvenience of the cables meant that we hadn't really thought about it too much. To do so would need some kind of router between us. It would be ridiculous. But now we could interface directly.
 
 Siobhan, as always, was keen to give it a go. So she and Simon connected. It was easy. With a couple of firmware tweaks Alan had made, they were interfacing without any significant translation. The look on their faces. I swear it hit Siobhan right in her panties, the rush. Their eyes were dilated, they were breathing hard, they were starting to sweat! 
+
+Until you actually connect with someone else, it is very difficult to describe it. Some say it is like taking a drug, some like sex, but it's not like any of these. At all.
 
 
 
@@ -35,3 +39,5 @@ To do this she needs to challenge her own interaction with the world. To become 
 It starts well enough, but as the levels get harder and harder she finds herself falling back into old patterns. She starts to resent the challenge and starts to resent the Gate as the answer.
 
 Ends with Lia
+
+

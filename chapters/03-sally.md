@@ -1,3 +1,5 @@
+# sally
+
 Our problems started with Sally Taylor. Everything had gone so well, to that point. We were making a good impact on social media and the general news was running a number of stories on Transhumanism, with our input. That, and with Lia, we felt we had real momentum. However, there is no defence against something like Sally; any progress we made, disolved in the face of that unfortunate ten year-old girl. How can you pick a fight with that? How can you attack the morals of a helpless, grieving mother? Or take to task a depairing grandfather? You cannot. Look, I know, I tried, but it gained me nothing; no, that's not correct - that fight cost me everything. And, let me be plain, Sally's story is remarkable too. Even I am moved by the sequence of events that led to our involvement.
 
 "I met Melvin Taylor at his house just over a month ago. The street he lives on is the epitomy of surburban comfortable living; hence the name of the place, Surbiton, Surrey, England. It is lined, nose to tail, with nice, shiny cars, on either side. This does make the street feel narrow, but means that any traffic moves slowly. The pavement is wide and grows, at even intervals, plane trees. Melvins's home is a clean-bricked, three-story town house that stands mid-way along the street and has inviting yellow lights that spill from the windows, brightening the evening of the grey day when I visit.
@@ -60,3 +62,4 @@ Need to have a set of characters in this group and their personalities
 Detail the interaction and the hacking of the systems into Bright Futures. The 'crackpots' have extreme views that Godwin wants to publicise. They do no, however, represent the Enhancer movement; nor does Bright Future either. They are more into making money and finding influence - very Old Days, really.
 
 Ends with her in a situation that she would never have allowed wanted. She is now the instrument of others' will and she cannot see a way out. She is frightened and alone.
+

@@ -1,8 +1,10 @@
-Is is about 10 o'clock in the morning when Joan knocks on the door. There was no answer from the doorstairs intercom. She knows her mother rarely goes out, so either the intercom is not working or she is drunk and asleep. A old woman with tightly permed, almost orange, hair had come out of the lobby door and Joan had gone in and up in the lift.
+# bad old days
 
-It takes nearly five minnutes for Viv to come to the door. Joan had banged urgently on the door and yelled in a hushed tone through the letterbox. "Mum, let me in." She felt the hotness of her skin as she had thought of the people in the apartment block listening to her try to rouse her mother.
+Is is about 10 o'clock in the morning when Joan knocks on the door. There was no answer from the downstairs intercom. She knows her mother rarely goes out, so either the intercom is not working or she is drunk and asleep. A old woman with tightly permed, almost orange, hair had come out of the lobby door and Joan had gone in and up in the lift.
 
-The door opens. "Joan! This is a lovely surprise. Sorry I was in the shower and couldn't have heard you." Viv stands there in her lurid pink and yellow dressing-gown that gaped awkwardly. Her skin and hair perfectly dry. She is heavily made up, but it is smudgy and poorly applied. "Come in, come in. Do you want a drink?"
+It takes nearly five minutes for Vi to come to the door. Joan had banged urgently on the door and yelled in a hushed tone through the letterbox. "Mum, let me in." She felt the hotness of her skin as she had thought of the people in the apartment block listening to her try to rouse her mother.
+
+The door opens. "Joan! This is a lovely surprise. Sorry I was in the shower and couldn't have heard you." Vi stands there in her lurid pink and yellow dressing-gown that gaped awkwardly. Her skin and hair perfectly dry. She is heavily made up, but it is smudgy and poorly applied. "Come in, come in. Do you want a drink?"
 "Tea. Do you have any milk?"
 "Of course, I think. Let me check." Vi hustles down the corridor into the kitchen at the end of the hallway. "No, love. Sorry. How about coffee then?"
 "Okay." Joan walks into the living room, not following her mother. The room is messy, with magazines and free papers on the floor. It is arranged as if the furniture had slid from side to side, like on a boat in a swelling sea, and settled at a point once the motion had stopped. A low coffee table lies close to a lounge chair, on it is a cushion with a bright knitted cover lined up with the chair. Across the table were drinks glasses and an overflowing ashtray. Opposite this a huge television that dominated the room.
@@ -35,3 +37,4 @@ Joan laughs a tight and bitter laugh. "God, really? Since when did you start bel
 Joan stands up, her head swimming so she has to lean down to steady herself with a hand. Vi leans her hand down to the side of her chair and picks up another mug. She drinks from it, staring at the television. "I'm off, mother. I'll let my self out." She moves out of the room and towards the front the door.
 "Do that," Vi says. She takes another gulp from the new cup and picks up the TV remote.
 Joan walks out of the apartment, the sound of the too loud TV is silenced with the slam of the door.
+

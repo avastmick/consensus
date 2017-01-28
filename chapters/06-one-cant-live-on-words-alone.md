@@ -1,3 +1,5 @@
+# one can't live on words alone
+
 I was raining heavily the next time I went to see Melvin. The bare trees on the street outside now had fat buds that were waiting for the warmth of the sun. None was coming that morning. The sky was almost black. Lights were on in every house on the street. Cars had their headlights on. The rain bounced up from the pavement soaking my shoes and trouser bottoms even though I was well covered with a vast blue golf umbrella. They were so wet that Melvin insisted I remove them to dry; so I sat on the leather sofa in pyjama bottoms a hand-length too long and wearing slippers a size too small.
 
 He told me that the initial joy and emotion of being able to connect to Sally had quickly faded. He said, "the messages from Sally were a deluge of questions and conversation; she never seemed to sleep, it was as if they were to stop they may never start again. I was exhausted, but if I stopped for any reason, she would be angry and upset. Joan just did not have the stamina required, either in staying connected or in the quality of communication. Sally was often mean to her mother and had mocked her for being 'stupid' on more than one occasion. The media were also now interested. At first Joan and I tried hard to keep them at bay, but we were worn down at the edges."
@@ -44,14 +46,14 @@ It was Raphaella's idea to have Bright Futures hold a press conference. I have i
 
 Poor Raphaella, she had really dropped the ball. And we just picked it up and ran with it. We ignited discussion of the interview through social media. People love conspiracy theories, they love the idea that there are clandestine forces at work. They'd rather believe that than face their own truths.
 
-
-#BrightFutures experiment on Children #SallyTaylor #ChildGate
-
-
-#ChildGate #BrightFutures Developing military mind control using children
+``BrightFutures experiment on Children #SallyTaylor #ChildGate``
 
 
-#ChildGate Another example of corporations taking advantage of people.
+``#ChildGate #BrightFutures Developing military mind control using children``
 
 
-I wouldn't let my kid suffer like #SallyTaylor #Childgate
+``ChildGate Another example of corporations taking advantage of people``
+
+
+``I wouldn't let my kid suffer like #SallyTaylor #Childgate``
+

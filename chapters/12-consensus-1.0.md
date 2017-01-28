@@ -1,3 +1,5 @@
+# consensus 1.0 
+
 "I'm sorry. The vote was unanimous. The board feel that there is too close a relationship between the recovery of Sally and the business of the company. There are rumours that you used company resources and employees to help with the integration of Sally to the Internet."
 "The code used is open source. There are a couple of dev labs that specialise in this stuff. They helped."
 "That's illegal."
@@ -25,3 +27,4 @@
 "Not BFC, Bright Future, the parent organisation. They are pushing a transhuman agenda. You've given them the ultimate trojan horse."
 "Get out. Just get the fuck out. You've gone fucking insane. Pay me off, otherwise this will be spilled across the media and you'll be a fucking laughing stock."
 "Will we? Not a lot of people like the idea of transhumanism. People don't like change. People won't like at all the idea that this change is against everything they've ever known."
+

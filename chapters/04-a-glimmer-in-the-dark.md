@@ -1,3 +1,5 @@
+# a glimmer in the dark
+
 Without doubt, my few days with Melvin were amongst the most emotional of my life. I am sure I can only fail in conveying the turmoil that he and Sally's mother, Joan, had lived through over the last year or so. Even as I recall these meetings and the frank monologues that Melvin gave, I find my carrying shy of the real weight that burdened the man; I know I shrank from him as he unfolded his bleak story. It was too much for any person.
 
 "Melvin was a tall man. I always think that being tall at an older age is unexpected; I do not know why. For his age, over seventy, he was healthy, slim and fit; he had that indescribable energy some people had, that seemed to ignite action in others. However, when he spoke of these times, of Sally's illness, he seemed to shrink in size and the spark of intensity, dimmed, as if the very words were hollowing him out.
@@ -55,3 +57,5 @@ I want his words. I have made words. Where are his?
 "When I finished reading the words on the paper, I went to give it back to him. 'She told me that the words aren't right, but I guess they are as close as we can through words. I have another version now, but I cannot share that, I'm sure you understand. You can keep it.'
 
 "The paper would, in much different circumstances, have been cherished in the same way as a painting or a poem, maybe hung on a wall, or on the door of a refrigerator, as a work of imagination by a 10 year-old girl, I suppose it would be remarkable. As an artifact, a record of an actual event, it felt, to me at least, almost obscene to take away. It was a private thing that should not be shared. But Melvin was adamant. 'No, please, keep it. It is worth you thinking about it, as I did. Only then, maybe, can you understand what I was going through and she.'
+
+

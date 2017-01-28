@@ -1,3 +1,5 @@
+# the story
+
 So, who am I? I am Charles Godwin. And you have probably come to think of me some kind of bigoted dinosaur; a neo-Luddite out of step with the modern world; someone trying to take us all back to a past long gone. And, I know what some of you are thinking: 'Why would I even listen to a man who has caused all that grief and suffering.'
 
 And I get that, I really do. That is why I ask for you hear my story. Only then may you see that the things that occurred were not as they first appeared. I am not the monster you think. No one is wearing the black hat in this story, nor anyone white, trust me on that. So, please, let me tell you my version of events.
@@ -7,3 +9,4 @@ As it happened, after the interview debacle, and the subsequent scandal, I was b
 Then, one day an idea came to me, a revelation, that I needed to get a better picture of what had happened, something with a different perspective. Recounting the story, truthfully, complete and without the baggage of bias held against me, by the media, would reignite the discussion that had dried up. This would, I hoped, engage again those who had become so disinterested in what was the most fundamental debate of our times. And still, deep down, I felt that what I had been fighting for was right; the very essence of it morally correct. I had lost an unfair and dirty fight, but I maintained that I held the higher ground - I still do. So, I thought, I would speak to all of the significant actors involved in the matter, if I could, and let them illustrate a richer, fuller story.
 
 And interestingly, and to my great surprise, everyone agreed to meet me. Maybe, this is sign of the times we live in, where everything is shared. Or, I suppose, they thought I was beaten enough, and not to be a further threat. Sadly, that maybe more true than I could wish for.
+
