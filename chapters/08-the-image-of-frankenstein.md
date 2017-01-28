@@ -1,0 +1,6 @@
+# the image of frankenstein
+
+Grandfather is asked to a meeting by a set of representative of the board of his company. They are accompanied by a man who says nothing, but introduced as Mr. Godwin. The board are concerned about the publicity the granddaughter's treatment is receiving. Grandad doesn't understand. What has that got to do with them, or anyone else! Mr Godwin asks Grandad whether he feels his granddaughter is still his granddaughter, or whether he is creating something that is just trying to recover her lost memory. Grandfather explodes in fury and storms from the meeting.
+
+Ends with the little girl being able to see the feed from a video camera.
+
