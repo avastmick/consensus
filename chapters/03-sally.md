@@ -41,25 +41,4 @@ Nothing happens. The mother finds out and has him arrested. Hope is fading and t
 
 The woman speaks with the grandfather, who is on bail. She says it looks like it has not worked at that the girl may not be able to understand how to interact. The grandfather presses and asks for access. She enables a remote means of text-based access.
 
- lia 2.0
-
-"Sally's story is sad enough, on reflection, but I must go on. While the poor child's health was failing her, Lia was undertaking the task we had given her. I have to be honest at this point, I truly thought Lia could pull off her challenge. She started well enough. Within a week she had connected to a small group of software engineers at Bright Futures.
-
-"Lia told me that this act of connection was an incredible experience; it is life-changing and shows to you clearly, for the first time, the exceptional power of our minds. It was almost drug-like, as she put it, 'like that first line of cocaine but immediate, or when something has gone wrong and your body dumps out adrenalin and thumps it through your body: you feel widely awake, hyper-alert and your brain seems to be going much faster than it ever has. And you would, someone else's brain is sending yours huge amount of data in a format that is native to you. Your mind doesn't need to process anything, there is no need for translation, or sorting; it is an instant insertion of feeling, thought and information, all wrapped together in one big hit.'
-
-"But, this feeling quickly ebbs away so you cannot reach it, she said. The information shared doesn't stay, it washes in, then out of your mind, like a retreating tide; this is the natural  way of dealing with the vast amounts of data we processes each moment. That constant stream that flows into our brains, even without a Gate: the images our eyes see; the sounds our ears hear; the smells we breathe; the tastes we ingest; the sensations of touch, of hot or cold, of weight, of wind. An ceaseless deluge floods our brains each second and remarkably, it makes sense of it all, without a conscious thought. It translates it, sorts it, even augments it where it is lacking, and then stores what it thinks it needs and drains what it does not.
-
-"Lia had to quickly learn how to keep a connection alive and contain the data given to her. It was tiring work and many days she just lay in bed and shut off her Gate's connection to exhausted to connect again. She felt it must be like, learning to uplift your senses if one had failed, say if you were blinded and you needed to train your senses of hearing and touch to compensate for the loss.
-
-"The people she was connecting with, too, were tiring for her. These were peripheral personnel of Bright Futures, not, as we had hoped Gate engineers working on the integration software. They tended the corporate websites; they were not actors in the goals of the enterprise, but only held supporting roles. Also, they were, to Lia, unpleasant people. Invariably they were zealots, true believers of the transhuman aims of Bright Future.
-
-"To Lia, she told me, her experience of Enhancers was no different from those she knew and connected to naturally. They were petty and simplistic and treated Lia like a child, deflecting her probing questions and challenging discussion with patronising trivia. They told her of their ideas of a super race of humans, more capable, more intelligent; they told her they were chosen people. Even Lia saw this as a laughably familiar set of concepts, played out by the countless hangers-on of visionaries and crackpots.
-
-Need to have a set of characters in this group and their personalities
-
-...
-
-Detail the interaction and the hacking of the systems into Bright Futures. The 'crackpots' have extreme views that Godwin wants to publicise. They do no, however, represent the Enhancer movement; nor does Bright Future either. They are more into making money and finding influence - very Old Days, really.
-
-Ends with her in a situation that she would never have allowed wanted. She is now the instrument of others' will and she cannot see a way out. She is frightened and alone.
 
