@@ -5,7 +5,7 @@ title:
   text: Consensus
 - type: subtitle
   text: The (near) future is connected
-subject: [sci-fi, transhumanism, consciousness, near-future, augmentation]
+subject: [sci-fi, transhumanism, consciousness, near-future, augmentation, hive-mind]
 creator:
 - role: author
   text: Michael W Clarke

@@ -1,3 +1,4 @@
+
 # a glimmer in the dark
 
 Without doubt, my few days with Melvin were amongst the most emotional of my life. I am sure I can only fail in conveying the turmoil that he and Sally's mother, Joan, had lived through over the last year or so. Even as I recall these meetings and the frank monologues that Melvin gave, I find my carrying shy of the real weight that burdened the man; I know I shrank from him as he unfolded his bleak story. It was too much for any person.
@@ -26,33 +27,34 @@ Without doubt, my few days with Melvin were amongst the most emotional of my lif
 
 "So, that day, when he managed to get through to her, is not something we can easily imagine. Sally was on the brink of oblivion. 'She thought she was asleep and dreaming,' he told me. 'She was dreaming of letters. They had fallen across the dark then hung in space: meaningless. They had faded. Then they had reappeared. They had changed, but she did not understand. She said she felt tired and had drifted away to the memories of her body and senses of places and people past that were remade into new worlds for her to explore, in her dreams.' At this point, Melvin had got up and went to a draw in a dresser in the corner of the room, where we were sat. He came back with a blue card folder. He flicked through it and pulled out an A4 sheet of paper. 'This is Sally's description of our first words. I've never shown anyone else. So, rather than my clumsy attempt, here, read hers.' I took the paper and read the typed words.
 
-Awake. I am sure. The black the utter black. The words. The words! They are words. If I think hard I can make them move. I am on the wrong side, or they are on the wrong side. I should be above them like when I read a book. No they have to be below me. I have to move them. I can read them if they were only below me and not above me. I am so tired. I am trying to move the letters. I have tried for… I don't know. I want to try. I want to. I am so tired.
-
+> Awake. I am sure. The black the utter black. The words. The words! They are words. If I think hard I can make them move. I am on the wrong side, or they are on the wrong side. I should be above them like when I read a book. No they have to be below me. I have to move them. I can read them if they were only below me and not above me. I am so tired. I am trying to move the letters. I have tried for… I don't know. I want to try. I want to. I am so tired.
+>
 Asleep. No. I am awake. They are there still. They have changed, but they are still there. Yes lower, they are lower. They are still squashed and wrong. It is like they are on a window. I am on the wrong side. I need to be the other side. No they need to be on my side. I cannot move. They must move. I must move them. They are below me.
-
+>
 Still awake. So tired. So tired. They are now clear. I can read them. I don't know what to do. They are me. *sally*.  I know the words. My name. They begin to fade. No! No, no, no. Don't go! A light seeps across my words. They are gone. I can see a place, it is familiar. My heart sinks. The place fades away. I am asleep. I know that.
-
+>
 Awake! Yes I am. My letters are there. Below me, the window right side to me. New words.
-
-*sally think of words to say*  
-
+>
+> *sally think of words to say*  
+>
 Yes I can do that. I can think of so many things to say. Grandad. It must be him. He is here. He is talking to me. Where is he? Is he trying to help me? I think of something to say. The harder I think the fainter his words become. No. Don't go grandad. Don't go. The more I think the less the words appear. I am so scared. I am so scared. Tired. I am so tired.
-
+>
 Awake. Words are still there.
-
-*sally you can do this*
-
+>
+> *sally you can do this*
+>
 He is still here! I didn't make him go away. Grandad! Hello. Grandad! The words fade. His words, they fade. My words are there.
-
+>
 	*hello grandad*
-
+>
 I want his words. I have made words. Where are his?
+>
+>	*hello sally*
+>
+>	*grandad i am here*
+>
+>	*i am here i will help you*
 
-	*hello sally*
-
-	*grandad i am here*
-
-	*i am here i will help you*
 
 "When I finished reading the words on the paper, I went to give it back to him. 'She told me that the words aren't right, but I guess they are as close as we can through words. I have another version now, but I cannot share that, I'm sure you understand. You can keep it.'
 

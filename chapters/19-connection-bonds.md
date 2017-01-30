@@ -1,6 +1,9 @@
+
 # connection bonds
 
 Melvin decides that to help Sally further he needs to better understand her situation and better connect to her.
+
+Dr Li has been released in China and has contacted Melvin, via Raphaella
 
 Ends with Melvin in Shanghai to see Dr Li.
 

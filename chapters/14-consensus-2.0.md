@@ -1,3 +1,4 @@
+
 # consensus 2.0
 
 When I first met Gray, I thought there had been a mistake. She looked eighteen, well no, a young man of eighteen, or at least, not a thirty-something woman. I held the same misjudged assumption as others, that is that she is transgender. "Nope." She is striking to look at. Well muscled and wearing, usually, tight manly clothing, she looks the picture of the dream butch lesbian, I guess. She denies that. "I like fucking men. I like working out. I hate dresses." She is slightly aggressive in body language and invasive of the usual norms of personal space. Her face, though, is calm, not friendly, but her words are invariably warm and pleasant, and littered with expletives. She is highly capable and intelligent. I think she revels in her ambiguous personality. She doesn't want to fit in and doesn't want others to put in a particular box, either. Gray is an interesting woman. She sees the world differently.

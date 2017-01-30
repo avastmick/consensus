@@ -1,3 +1,4 @@
+
 # the joy of text is overrated
 
 Sally is improving rapidly. Her body's health responds to the nourishment her mind is being provided.

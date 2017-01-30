@@ -1,5 +1,23 @@
+
 # bad old days
 
+I went to see Joan the following day. She lived in an elegant apartment in Chelsea. She was still angry about the fact Melvin had taken me to see Sally. "Was she awake?" She demanded of me. I told her that Melvin had said she was sleeping. I had noticed the camera over her head. "He has no idea that man. I bet she was awake. She has done that to me. Kids love to snoop, and Sally is no different. She pretends to be asleep, but is listening or just watching you. As I said, she does it to me all the time."
+
+The bright paint on the walls, the flowers, the cards, they made sense now. Of course!
+
+I coaxed a reluctant Joan back to the time before, when there was only text communication with her daughter. She told me that the initial joy she felt at sharing words with Sally only briefly lifted her from her previous despair. "What kind of existence was it? What was she, a little girl or a machine?" She is still troubled by what Sally was, she told me.
+
+"I have to tell you Charles, I don't think I was ever happy about what happened to Sally. I know, I know, what mother could wish their child dead. But I had mourned. I had begun grieving for her when my father had been convinced by that woman to let Sally have that operation. I was furious. I had him arrested. I hated him!" Joan fell silent often for long periods when we had met. It was as if she was searching for the right words, words that could describe the indescribable struggle of a mother losing her child. She had lost her physically to the virus; she had lost her mind to Melvin and the machines they attached her to.
+
+"No. My baby girl has gone. I still have a daughter, but she is not the child I brought into the world. Not the girl I raised and loved. That girl has gone, and I am hated for it, saying what I feel. I can see it in their eyes, in the way they speak. At best they pity me. I know my own father does that, pity me." She fell back into another reverie. I waited.
+
+"That woman had come to one day," Joan suddenly said. "You know that manipulative bitch DiCosta. She had managed to convince my father to attach her to the Internet, so she can have more to do, more to seek, something to distract her from her, how did she say it? Her 'predicament'." Joan laughed, a hard, bitter laugh. "I mean now she could watch YouTube all day instead of speaking to her 'stupid' mother! It did mean I got some sleep though." Sally's mothers face was hard and thin and constantly a slight tension played across her lips and nose, as if she was hurting in some way. It did mean she looked at you as if you were beneath her. She looked a snob. Though I saw nothing that made her one. It was just a look on her face.
+
+"DiCosta was then all excited. Her Internet experiment was a big hit with Sally. But she didn't want to stop there. She wanted to conduct more surgery on Sally. I said no. Actually I said over my dead body. But Dad was keen on the idea. I still think he was fucking that woman. Had to be. He was like her puppy. It was repulsive." She paused again, but this time as if regaining her wind for a final push. To get it all out.
+
+"So, I had an idea. Or I thought I did. I said they should ask Sally what she wanted. 'We should all stop making decisions for her without even asking if she wanted them,' I told them. So they did. She was nuts for it. The brat knew more about the options than we did." She laughed again, this time there was tenderness in it. "She was remarkably  well informed, she knew what she wanted. She wanted sight and hearing." Joan's voice cracked and her eyes pooled, wet and she sucked in air across her teeth. "She told me, she wanted a hug from me and be able to feel it."
+
+A single tear broke the banks of her one eye and she pushed across her cheek and away with the back of her index finger.
 Is is about 10 o'clock in the morning when Joan knocks on the door. There was no answer from the downstairs intercom. She knows her mother rarely goes out, so either the intercom is not working or she is drunk and asleep. A old woman with tightly permed, almost orange, hair had come out of the lobby door and Joan had gone in and up in the lift.
 
 It takes nearly five minutes for Vi to come to the door. Joan had banged urgently on the door and yelled in a hushed tone through the letterbox. "Mum, let me in." She felt the hotness of her skin as she had thought of the people in the apartment block listening to her try to rouse her mother.

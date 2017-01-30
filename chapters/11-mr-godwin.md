@@ -1,3 +1,4 @@
+
 # mr godwin
 
 I'll get back to Gray later; she's important. But, I think at this point I urgently need to let you know more about myself. As you can see, I'm not pulling any punches here, when I tell you how people talk about me. But, to avoid burning myself in front of you and you cheering, at least let me make me human enough in your eyes so you turn your head away as the flames lick at me.

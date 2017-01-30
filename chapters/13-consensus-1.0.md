@@ -1,3 +1,4 @@
+
 # consensus 1.0 
 
 "I'm sorry. The vote was unanimous. The board feel that there is too close a relationship between the recovery of Sally and the business of the company. There are rumours that you used company resources and employees to help with the integration of Sally to the Internet."
@@ -6,10 +7,10 @@
 "No it is not. The act of an unlicensed use of a Gate is illegal, or rather the person installing the Gate is operating outside of the law. The law says nothing about software or the person receiving the Gate."
 "It's a shady area. So you are saying that no employees were used?"
 "Not to my knowledge."
-"Come on, that's a convienient line."
+"Come on, that's a convenient line."
 "I can't control what employees do in their own time by their own volition."
 "Their contracts do. They are clear on working outside of the company while in our employ."
-"Look, you want me gone - fine. You try to get me out to save money and try and not pay me outâ?¦ It won't end well. Sally is very public you know. I can't imagine shareholders liking that story."
+"Look, you want me gone - fine. You try to get me out to save money and try and not pay me out?¦ It won't end well. Sally is very public you know. I can't imagine shareholders liking that story."
 "Okay, let's not go there. Listen, let's get to the real point. There are some on the board who want to know about your relationship with Bright Future."
 "BFC provided the Gate and the technical team that implanted it into Sally. They provided a consultant ///woman who assisted in connecting to Sally. They're good, professional. I trust them as I know what they want and why they put forward so much resource."
 "You aren't involved with their business?"
