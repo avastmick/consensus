@@ -1,7 +1,7 @@
 
 # the past is before us
 
-I have to say that speaking of Lia is not easy. Not in the way that speaking of Sally is hard, but that Lia is a closed book, all I have and had is the cover, and that gives no more than a rough precis of of the contents.
+I have to say that speaking of Lia is not easy. Not in the way that speaking of Sally is hard, but that Lia is a closed book, all I have and had is the cover, and that gives no more than a rough summary of of the contents.
 
 There is no trust - ah that word again. The world seems to lack trust, or rather a sound reputation that is built up over time, takes only a moment to break. It is a fragile thing but it supports everything we do. Sorry I ramble for a moment. But, this idea is important to understanding Lia. She had no trust in me, even from the earliest point, even when we first met. But she trusted some more than others. Susan for example had Lia's trust. Personally, I find that incredible, that she trusted a person whose only interaction was to sell her out. Susan was my instrument to convince Lia to take up our cause. Yet here we are, nearly two years on from that first betrayal, and still Lia confides in Susan. In fact she arranged for me to go to New Zealand and see Lia. If I had asked I know she wouldn't have even responded.
 
@@ -36,5 +36,3 @@ I pressed Gray as to why she went there, there must have been something in her m
 "I asked again, but she was too upset to do anything. I left her. She was just sat on the end of that bed in that grubby and damp apartment. I gave it a go." Gray broke off and sat there staring at me. Then she said, "I wish you were connected, Charles. I wish you could feel what you had done, to her and to the others. I wish we could see you for what you are. Because sat here, looking at you, guessing what is going on in that fucking head of yours, makes me hate you and think that you are a fucking ass-hole."
 
 I ducked the assault. I asked her why Lia was important. "She's not. She's no different from anyone. I you hadn't have fucked her up, she's be a no one. She'd probably just gone back to New Zealand, gone back to that shitty job and used her Gate to improve her twitch while gaming. But you did fuck her up, we hadn't done anything to help her. Then she had that brief moment of celebrity. It makes her a person of interest, as they say. She is a monster of your making, Godwin, your pawn and you pushed her too far up the board, so now she's too dangerous to leave alone."
-
-
