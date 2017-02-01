@@ -1,6 +1,8 @@
 
 # consensus 1.0 
 
+
+
 "I'm sorry. The vote was unanimous. The board feel that there is too close a relationship between the recovery of Sally and the business of the company. There are rumours that you used company resources and employees to help with the integration of Sally to the Internet."
 "The code used is open source. There are a couple of dev labs that specialise in this stuff. They helped."
 "That's illegal."
