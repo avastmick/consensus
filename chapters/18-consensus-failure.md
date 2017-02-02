@@ -4,7 +4,9 @@ Charles Godwin gives an interview. His narcissism completely derails his intende
 
 Godwin meets with his group. They attack him. The terror of a hidden hand at work unpicks them, the irony of their own image being projected and then reflected back is heavy here.
 
-The group splinter. Godwin is left berating the others, but they have already left.
+The group splinter. Godwin is left berating the others.
+
+The wider group respond to Godwin's anger, blaming him. Worse they point out that people are never as interested in things as he thinks. "Charles, you are an idiot. You think, because you are involved, and at the centre of this thing, then people everywhere will be drawn to it like moths to a light bulb. But they are not. You are a dim light among many. Look about you, do you see a crowd of acolytes? We are noisy, Charles, but we are few. And there is a greater force at work and you focus on a child.
 
 Ends with a summary of scathing social media reaction and backlash.
 
