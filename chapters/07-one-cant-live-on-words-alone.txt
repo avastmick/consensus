@@ -7,10 +7,6 @@ He told me that the initial joy and emotion of being able to connect to Sally ha
 
 It had been Raphaella's idea to have Bright Futures hold a press conference. I have included the transcript here, rather than being accused of giving it any spin. I don't need to; it was gold to us at the time. I couldn't have paid for a better outcome, and those few minutes of misspoken airtime, in addition to Lia's information, now had Bright Futures painted as a shady organisation that no one should trust.
 
-
-<!-- Work out and test the formatting here -->
-
->  
 >"Good evening all, I am Anna Gardiner, BBC medical correspondent, reporting from the Queens Square Hospital, here in London. With me is Raphaella DiCosta, Director of Outreach at Bright Futures Cybernetics, who are based in California. Bright Futures have provided the Taylor family support and provide the technology that allows Sally to communicate. Good evening, Raphaella."  
 >  
 >"Good evening, Anna, I'm pleased to be here this evening."  
