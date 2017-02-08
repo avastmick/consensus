@@ -1,6 +1,27 @@
 
 # lia
 
+<!-- 
+Editing:
+    Ensure that the jumps between Godwin and who is quoting is clear and easy to read and understand for the reader
+Storyline:
+    - [Day zero (D0)] Leaves for Shanghai 
+    - [D0 + 10] Sees Dr Li
+    - [D0 + 12] Returns to hotel
+    - [D0 + 14] Leaves hotel and meets Godwin
+    - [D0 + 20] Returns to NZ
+    - [D0 + 50] ALIGNMENT (Sally Day zero)
+    - [D0 + 90] Has job with *Bright Futures* web dept
+    - [D0 + 275] Connects with Andrews et al.
+    - [D0 + 575] Hacks *ConnectU Services* and Baptist Church
+    - [D0 + 600] Arrested. ALIGNMENT (Sally 550, Godwin Day 0)
+    - [D0 + 620] Deported
+    - [D0 + 700] Meets Gray
+    - [D0 + 750] Trial, found innocent, gets job
+    - [D0 + 850] Decides to remove *Gate* connection, but leave *Gate*
+    - [D0 + 900] ALIGNMENT (Godwin Day 300)
+ -->
+
 I have travelled a lot in the last year or so. You see, this story is spread across the globe, from New Zealand to Shanghai, to London to California. It has an epicentre, a focal point, due to the significant person who still lives there. She is the key to it all. She is the embodiment of what the future could be. But she is different, radically so. 
 
 First, I went first to see Lia Cox. She had returned to New Zealand and picked up pretty much where we had first heard of her. She had returned to work as a software developer in the same multinational services company that was previously owned by Melvin Taylor. I have thought, that if events were to have played out differently, she may have been the poster girl to our cause: a young woman, talented enough and with real prospects to do well in life. She would have illustrated to the world what could go wrong with the transhuman dream, as she had lived it as a nightmare. I still believe that she has a compelling story to tell, but she is not the centre of it, rather than a nightmare, hers was just restless sleep. I have to be blunt, much of her problems are of her making. Still, she gave me insight into some things I didn't know.

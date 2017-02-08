@@ -2,7 +2,8 @@
 # we are all of us responsible
 
 <!-- 
-Check consistency with Chapters 2 and 3
+Editing: 
+    Check consistency with Chapters 2 and 3
 -->
 
 Sally's story is sad enough, on reflection, but I must go on. While the poor child's health was failing her, Lia was undertaking the task we had given her. I have to be honest at this point, I truly thought Lia could pull off her challenge. She started well enough. Within a week she had connected to a small group of software engineers at *Bright Futures*.
