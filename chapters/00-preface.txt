@@ -4,7 +4,7 @@ title:
 - type: main
   text: Consensus
 - type: subtitle
-  text: The (near) future is connected
+  text: What price a child's life?
 subject: [sci-fi, transhumanism, consciousness, near-future, augmentation, hive-mind]
 creator:
 - role: author
@@ -12,7 +12,7 @@ creator:
 publisher: avastmick
 rights: (c) 2017 Michael W Clarke
 description: |
-  The new Connected humans are struggling with the non-augmented, can one side gain supremacy or destroy the whole human race, or can a new order be found where all can live together before it is too late?
+  The world is in turmoil at technology encroaching upon our biology. At the centre of events is a dangerously sick young girl. Her despairing grandfather and grieving mother question the options offered to them. Will saving her in fact mean losing her? Are interested parties using her story for their own ends?  
 ---
 
 
