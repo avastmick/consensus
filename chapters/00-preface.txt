@@ -5,17 +5,24 @@ title:
   text: Consensus
 - type: subtitle
   text: What price a child's life?
-subject: [sci-fi, transhumanism, consciousness, near-future, augmentation, hive-mind]
+subject: [science fiction, fiction, sci-fi, transhumanism, consciousness, near-future, augmentation, hive-mind]
 creator:
 - role: author
   text: Michael W Clarke
 publisher: avastmick
 rights: (c) 2017 Michael W Clarke
 description: |
-  The world is in turmoil at technology encroaching upon our biology. At the centre of events is a dangerously sick young girl. Her despairing grandfather and grieving mother question the options offered to them. Will saving her in fact mean losing her? Are interested parties using her story for their own ends?  
+  The world is in turmoil at the technology that is encroaching upon our biology. At the centre of events is a dangerously sick young girl. Her despairing grandfather and grieving mother question the options offered to them. Will saving her life in fact mean losing her? Are interested parties using her situation for their own ends?  
 ---
 
+<!-- 
+Editing: 
+    1. Need to clean up paragraphs and indents
+    2. Work out how to style the chapters headings so they are centred
+    3. Possibly style so the first letter of each chapter has a different look
+    4. Other
 
+ -->
 # foreword
 
 Books that concern themselves with the future are always in danger of making themselves a mockery. In particular, this is true of books that describe the near future, so I am putting myself, deliberately, in a situation where derision is likely. To lessen the inevitable effects, I have taken some precautions to help avoid almost immediate anachronism.
