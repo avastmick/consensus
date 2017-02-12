@@ -23,7 +23,7 @@ Editing:
     4. Other
 
  -->
-# foreword
+# Foreword
 
 Books that concern themselves with the future are always in danger of making themselves a mockery. In particular, this is true of books that describe the near future, so I am putting myself, deliberately, in a situation where derision is likely. To lessen the inevitable effects, I have taken some precautions to help avoid almost immediate anachronism.
 
