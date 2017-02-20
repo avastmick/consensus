@@ -1,6 +1,5 @@
 # Summary
 
-* [Preface](chapters/00-preface.md)
 * [Chapter 1 - The story](chapters/01-the-story.md)
 * [Chapter 2 - Lia 1.0](chapters/02-lia-1.0.md)
 * [Chapter 3 - Lia 2.0](chapters/03-lia-2.0.md)
@@ -24,4 +23,3 @@
 * [Chapter 21 - The beginning](chapters/21-the-beginning.md)
 * [Chapter 21 - Upgrade path](chapters/22-upgrade-path.md)
 * [Appendix A - The manifesto](chapters/appendix-01-manifesto.md)
-
