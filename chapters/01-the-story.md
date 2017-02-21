@@ -9,6 +9,7 @@ Storyline:
     - [D0 + 40] *The Wilderness*
     - [D0 + 70] *The Plan* - this section, in summary
     - [D0 + 300] Completes interviews with those concerned
+    - [D0 + ]
     - [D0 + 360] Sally recovers ALIGNMENT (Sally day 1000)
     - [D0 + 400] Completes the Writing
     - [D0 + 450] Publishes, including the *epilogue*
