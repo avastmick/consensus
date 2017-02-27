@@ -2,7 +2,7 @@
 # - should create .mobi, .epub and .pdf versions
 # 
 
-image: node:6
+image: avastmick/ebook-builder:latest
 
 before_script:
   - env
@@ -16,13 +16,11 @@ stages:
 ebook:
   stage: build
   script:
-    - FILENAME=($DRAFT-FILE-NAME)$(date +"%m-%d-%y")
     - gitbook mobi
   artifacts:
     paths:
-      - ${FILENAME}.mobi
+      - consensus-draft-$(date +"%m-%d-%y").mobi
   only:
     - draft
   tags:
     - gitbook
-
