@@ -1,6 +1,6 @@
 # A hook to build the build.
-# - should create .mobi, .epub and .pdf versions
-# 
+# - it creates .mobi, .epub and .pdf versions
+# - these are available as a download
 
 image: avastmick/ebook-builder:latest
 
@@ -23,6 +23,6 @@ ebook:
       - ./*.pdf
   only:
     - draft
-    # - tags
+    - tags
   tags:
     - shared
