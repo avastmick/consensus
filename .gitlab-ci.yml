@@ -22,7 +22,7 @@ ebook:
     paths:
       - ${FILENAME}.mobi
   only:
-    - master
+    - draft
   tags:
     - gitbook
 
