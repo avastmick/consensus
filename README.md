@@ -1,7 +1,7 @@
 
 # Consensus 
  
-The world is in turmoil at the technology that is encroaching upon our biology. At the centre is Sally, a dangerously sick young girl. Her despairing grandfather and grieving mother question the options offered to them, and ask will saving her life in fact mean losing her? Are interested parties using her situation for their own ends?  
+The world is in turmoil at the technology encroaching upon our biology. At the centre is Sally, a dangerously sick young girl. Her despairing grandfather and grieving mother question the options offered to them and ask: will saving her life in fact mean losing her? Are interested parties using her situation for their own ends?  
 
 <!---
 cover-image:  cover.jpg

@@ -14,10 +14,15 @@ ebook:
   stage: build
   script:
     - gitbook mobi ./ ./consensus-draft-$(date +"%m-%d-%y").mobi
+    - gitbook epub ./ ./consensus-draft-$(date +"%m-%d-%y").epub
+    - gitbook pdf ./ ./consensus-draft-$(date +"%m-%d-%y").pdf
   artifacts:
     paths:
-      - consensus-draft-$(date +"%m-%d-%y").mobi
+      - ./*.mobi
+      - ./*.epub
+      - ./*.pdf
   only:
     - draft
+    # - tags
   tags:
     - shared
