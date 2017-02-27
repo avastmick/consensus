@@ -7,16 +7,13 @@ image: avastmick/ebook-builder:latest
 before_script:
   - env
 
-variables:
-  DRAFT-FILE-NAME: consensus-draft-
-
 stages:
   - build
 
 ebook:
   stage: build
   script:
-    - gitbook mobi
+    - gitbook mobi ./ ./consensus-draft-$(date +"%m-%d-%y").mobi
   artifacts:
     paths:
       - consensus-draft-$(date +"%m-%d-%y").mobi
