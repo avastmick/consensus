@@ -1,0 +1,28 @@
+# A hook to build the build.
+# - should create .mobi, .epub and .pdf versions
+# 
+
+image: node:6
+
+before_script:
+  - env
+
+variables:
+  DRAFT-FILE-NAME: consensus-draft-
+
+stages:
+  - build
+
+ebook:
+  stage: build
+  script:
+    - FILENAME=($DRAFT-FILE-NAME)$(date +"%m-%d-%y")
+    - gitbook mobi
+  artifacts:
+    paths:
+      - ${FILENAME}.mobi
+  only:
+    - master
+  tags:
+    - gitbook
+
