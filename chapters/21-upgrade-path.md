@@ -21,6 +21,10 @@ Narrative:
 
     It is a journey that had had no plan. Each step taken was away from adversity or despair; each turn made was the result of disaster or mishap. There is no blame. There is no conscious decision to make Sally what she becomes. Any discomfort at it, or even horror, comes from within us. She is alive and even thrives. True, she is not a typical girl of thirteen. She is truly special.
 
+    THERE HAS TO BE SOME HORROR HERE, AT LEAST INTIMATED
+
 -->
 
-Three months after I had wrapped everything up I had a phone call. It was Melvin. I guessed that he was
+Three months after I had wrapped everything up I had a phone call. After Joan's death I hadn't bothered much with the writing. I felt, what was the point? Afterall, the original agreement was that all the participants had to agree with what I said, that it was a reasonable record of fact, balanced if you like. With Joan dead and Melvin not contactable I had stalled.
+
+It was Melvin who called. I guessed that he was mad at me because of Joan.
