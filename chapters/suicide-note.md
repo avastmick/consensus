@@ -7,7 +7,7 @@ I am so sorry about this. I really am. I know you have tried to help me and be t
 
 I no longer feel there is a place for me in this world. Nothing I do seems to come out well. I have tried so hard to make things work.
 
-
+I love you and Sally. Please tell I have always loved her. I despair that is all.
 
 I love you Dad.
 
