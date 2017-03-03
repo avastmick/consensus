@@ -7,9 +7,6 @@ image: avastmick/ebook-builder:latest
 before_script:
   - env
 
-stages:
-  - build
-
 default-job:
   stage: build
   script:
