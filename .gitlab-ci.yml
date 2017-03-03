@@ -10,7 +10,20 @@ before_script:
 stages:
   - build
 
-ebook:
+default-job:
+  stage: build
+  script:
+    - gitbook mobi ./ ./consensus-draft-$(date +"%m-%d-%y").mobi
+    - gitbook epub ./ ./consensus-draft-$(date +"%m-%d-%y").epub
+    - gitbook pdf ./ ./consensus-draft-$(date +"%m-%d-%y").pdf
+  except:
+    - tags
+  only:
+    - draft
+  tags:
+    - shared
+
+draft-job:
   stage: build
   script:
     - gitbook mobi ./ ./consensus-draft-$(date +"%m-%d-%y").mobi

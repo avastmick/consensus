@@ -12,3 +12,6 @@ _book
 
 # Any draft generation
 *draft*
+
+# Any non-buildable items
+*.xlsx
