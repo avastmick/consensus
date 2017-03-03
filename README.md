@@ -1,4 +1,5 @@
 # consensus 
+[![build status](https://gitlab.com/avastmick/consensus/badges/master/build.svg)](https://gitlab.com/avastmick/consensus/commits/master)
  
 :book:
 
