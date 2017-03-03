@@ -35,7 +35,7 @@ draft-job:
       - ./*.epub
       - ./*.pdf
   only:
-    - tags
+    - /^draft-.*$/
     - draft
   tags:
     - shared
