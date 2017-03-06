@@ -54,5 +54,21 @@ Melvin's hand lifted to mine and gently pulled it down from my face. I had cover
 
 Melvin made a simple lunch. Sandwiches for us and something brown and gloopy from a packet for Sally.
     "See, gross!" She was right. Her food looked unappetising. Her imprecise motor skills meant that much of it went on her chin and down a bib Melvin had hung around her. Eventually she gave up and let her grandfather feed her.
-    "You're getting better. At least you can get some of it in your mouth now. We need to get a dog, to clean up after you." He laughed. It was a cruel joke to the outsider, but Sally laughed.
+    "You're getting better. At least you can get some of it in your mouth now. We need to get a dog, to clean up after you." He laughed. It was a cruel joke to the outsider, but Sally laughed. We ate the lunch in silence. Sally too. She seemed to be thinking or speaking with someone. I didn't ask. 
+
+After we had finished Melvin lifted her up and carried her up the stairs. I waited. It was as if I was like a child myself at that moment. Others in the world carried on, their actions unexplained, a secret code went between them. I saw then the possibilities in the new world that was dawning, whether we liked it or no. Those who were *Connected* we in almost constant communication. Those who were not were excluded. Over time I could see a future where the two parties rarely engaged, each would frustrate the other. We would become like children to them. They would sigh at our constant requests for explanation and elaborate, long-winded speech. I felt that then. My frustration at the silent conversation that surrounded me, like the coded words of parents who wanted to say something important but obscure its meaning from little ears. I felt insulted.
+
+Melvin returned. "Sally gets very tired, physically. She's never been a kid for napping, even as a toddler. Now soon to be a teenager, she's having a nap twice a day. She sleeps fourteen hours at a stretch at night. The doctors say she is healing. She gets stronger every day."
+    "Will she walk again?"
+    "It is unlikely. But then who knows. She says she misses being able to run about. She manages the park though. That's nice, to go back there. Particularly now the weather is so good."
+    "Those things she said, about *Bright Futures*. Did they do that? That's abuse. Heck, I was right, they were experimenting on her."
+    "Hang on. She is angry. She's nearly a teenager. As she gets healthier, she gets more of a teenager, and she gets more angry. At everything. She wants friends. She wants to go to school. She wants to be *normal*. Right now, she can't. But, as she said she wouldn't remove anything. The devices are part of her now. She's spent a long time relying on them and they work better than her healing body."
+    "But she said they did stuff without her consent."
+    "I know, I know. I was there. We were all desperate. I think we were all close to the line. You know, the ethical line. People may have stepped over it for a while. Maybe."
+    "*Bright Futures*, you mean?"
+    "I mean all of us, Charles. You too, remember. None of us come out of this with no blame. As the sheriff says, 'There ain't no white hats in this here town!'" He laughed. He stuck out his hand to me. I took it and he placed his other hand over the top on mine. "It's good to see you again. Sally's right, I like you. God knows why! But I do. She likes you too. And we all enjoy her torturing you."
+
+                                        THE END
+
+
 
