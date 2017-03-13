@@ -1,29 +1,7 @@
 
 # Chapter 4 - Sally
 
-<!-- 
-
-Editing: Needs re-writing, to ensure the style is matching. 
-
-Storyline: stretches over ~18 months.
-
-- [Day zero (D0)] Sally was taken ill on a cold day at the end of January
-- [D0 + 40] She is in a coma for nearly 6 weeks - they discuss termination
-- [D0 + 41] *Bright Futures* get involved and make an assessment of her brain function
-- [D0 + 80] At the middle of April she has the Gate inserted
-- [D0 + 120] She regains base motor function, her heart can beat again, though she requires breathing assistance
-- [D0 + 135] She has Internet connectivity
-- [D0 + 300] Her health diminishes as she struggles mentally with her state
-- [D0 + 400] She is given artificial sight and hearing and her memory is augmented
-- [D0 + 500] Melvin joins her and *connects* 
-- [D0 + 550] Godwin's interview ALIGNMENT
-- [D0 + 900] She regains all gross motor function and can leave hospital
-- [D0 + 1000] She regains sight and hearing and can move her upper body
-- [D0 + 1000] ALIGNMENT (Godwin Day 360)
-
--->
-
-My story has an epicentre, a focal point, due to the person who still lives there. She is the key to it all. She is the embodiment of what the future could be. She is different, radically so. My problems began her, with Sally Taylor. Everything had gone so well to that point. We were making a good impact on social media and the general news was running stories on Transhumanism, with our input. We felt we had real momentum, given the push we had from Lia's information. However, there is no defence against something like Sally; any progress we made was thrown back by that unfortunate ten year-old girl. How can you pick a fight with that? How can you attack the morals of a helpless, grieving mother? Or take to task a despairing grandfather? You cannot. Look, I know, I tried, but it gained me nothing; no, that's not correct - that fight cost me everything. Sally's story is remarkable. Even I was moved by the sequence of events that led to meet. Who wasn't? Afterall, when is any price too high when it comes to save a child's life? anyway I liked it
+My story has an epicentre, a focal point, due to the person who still lives there. She is the key to it all. She is the embodiment of what the future could be. She is different, radically so. My problems began her, with Sally Taylor. Everything had gone so well to that point. We were making a good impact on social media and the general news was running stories on Transhumanism, with our input. We felt we had real momentum, given the push we had from Lia's information. However, there is no defence against something like Sally; any progress we made was thrown back by that unfortunate ten year-old girl. How can you pick a fight with that? How can you attack the morals of a helpless, grieving mother? Or take to task a despairing grandfather? You cannot. Look, I know, I tried, but it gained me nothing; no, that's not correct - that fight cost me everything. Sally's story is remarkable. Even I was moved by the sequence of events that led to meet. Who wasn't? Afterall, when is any price too high when it comes to save a child's life? 
 
 I met Melvin Taylor at his house a few months ago. The street he lives on is the epitome of suburban comfortable living; hence the name of the place, Surbiton, Surrey, England. It is lined, nose to tail, with nice, shiny cars, on either side. This makes the street feel narrow; but, means that the traffic is slow. The pavement is wide and grows, at even intervals, plane trees. Melvin's home is a clean-bricked, three-story town house that stands mid-way along the street. It had inviting yellow lights that spilt from the windows, brightening the evening of the grey day when I first visited.
 
