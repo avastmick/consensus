@@ -32,3 +32,5 @@ At the top of the rise we stopped. I was out of breath and sat on the bench ther
 "I managed to get Joan away from the hospital, for a while at least. Her crazed incident in the corridor had become useful. The doctors were patient with me, I'll give them that. They understood. They even admitted the brain scans were puzzling, and confessed that *something* may be going on in there. But, to a person, they could never give me any hope of improvement. 
 
 "Then, two weeks after Sally was admitted, Raphaella arrived at the hospital. She came through the place like a glamorous wind. Her charm and persuasiveness changed the air; she changed everything. Raphaella is a very easy person to like. She has that southern belle accent and a calm, low tone; nothing seemed to fluster her. When things got really tense, and most situations were tense then, she would smile and you could feel the air in the room lighten and everyone relax a little. It was a fantastic talent, it really was. If I still had my business, I would really think of trying to hire her.
+
+"She asked me for access"
