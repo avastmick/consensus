@@ -31,4 +31,4 @@ At the top of the rise we stopped. I was out of breath and sat on the bench ther
 
 "I managed to get Joan away from the hospital, for a while at least. Her crazed incident in the corridor had become useful. The doctors were patient with me, I'll give them that. They understood. They even admitted the brain scans were puzzling, and confessed that *something* may be going on in there. But, to a person, they could never give me any hope of improvement. 
 
-"Then, two weeks after Sally was admitted, Raphaella arrived at the hospital. She came through the place like a glamorous wind. Her charm and persuasiveness changed the air.
+"Then, two weeks after Sally was admitted, Raphaella arrived at the hospital. She came through the place like a glamorous wind. Her charm and persuasiveness changed the air; she changed everything.
