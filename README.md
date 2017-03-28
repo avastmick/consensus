@@ -1,24 +1,7 @@
 
 # Consensus 
  
-The world is in turmoil at the technology encroaching upon our biology. At the centre is Sally, a dangerously sick young girl. Her despairing grandfather and grieving mother must struggle with interested parties who may be using Sally's situation for their own ends. They have to ask, will saving her life, in fact, mean losing the girl they love so much?
-
-<!---
-cover-image:  cover.jpg
-title:
-- type: main
-  text: Consensus
-- type: subtitle
-  text: What price a child's life?
-subject: [science fiction, fiction, sci-fi, transhumanism, consciousness, near-future, augmentation, hive-mind]
-creator:
-- role: author
-  text: Michael W Clarke
-publisher: avastmick
-rights: (c) 2017 Michael W Clarke
-description: |
-  The world is in turmoil at the technology that is encroaching upon our biology. At the centre of events is a dangerously sick young girl. Her despairing grandfather and grieving mother question the options offered to them. Will saving her life in fact mean losing her? Are interested parties using her situation for their own ends?  
--->
+{% include "synopsis/blurb.md" %}
 
 # Foreword
 
@@ -29,3 +12,4 @@ Firstly, this book is not intended to be prophetic. I have no crystal ball. Seco
 I hope you enjoy it, and are not too dismissive if my depiction of the future is not quite right.
 
 *Michael W Clarke, Shanghai, 2017.*
+
