@@ -7,5 +7,6 @@
 
 # Build a epub book
 # pandoc -S -o consensus-draft-$(date +"%m-%d-%y").epub chapters/*.md 
+# pandoc -S -o consensus-draft.epub chapters/*.md
 # Build a MOBI book
 # kindlegen *.epub
