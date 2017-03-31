@@ -1,7 +1,7 @@
 
-# Chapter 10 - The past is before us
+# Chapter 10
 
-I have put that day with Melvin behind me now. I have had to. I need to finish what I know of Lia. And, I have to say that speaking of her is not easy either. Not in the way that speaking of Sally is hard. No, rather it is that Lia is a closed book, all I have had is the cover, and that gives me no more than a rough summary of of the contents.
+<span class="firstLetter">I</span> HAVE PUT THAT DAY with Melvin behind me now. I have had to. I need to finish what I know of Lia. And, I have to say that speaking of her is not easy either. Not in the way that speaking of Sally is hard. No, rather it is that Lia is a closed book, all I have had is the cover, and that gives me no more than a rough summary of of the contents.
 
 There is no trust - ah that word again. The world seems to lack trust, or rather a sound reputation that is built up over time, takes only a moment to break. It is a fragile thing but it supports everything we do. Sorry I ramble for a moment. But, this idea is important to understanding Lia. She had no trust in me, even from the earliest point, even when we first met. But she trusted some more than others. Susan for example had Lia's trust. Personally, I find that incredible, that she trusted a person whose only interaction was to sell her out. Susan was my instrument to convince Lia to take up our cause. Yet here we are, nearly two years on from that first betrayal, and still Lia confides in Susan. In fact she arranged for me to go to New Zealand and see Lia. If I had asked I know she wouldn't have even responded.
 
