@@ -1,8 +1,7 @@
 
-# 4
-## Sally
+# Chapter 4
 
-We were making real progress. Everything was going well. We had Lia embedded at *Bright Futures*. We were influencing social media and the general news outlets. The stories were spreading of the threat that transhumanism brought to our way of life. We believed we had real momentum, given the push we had from Lia's information. Then came Sally Taylor. She looked, at first, another terrific opportunity for us. In fact, our problems started with her. All progress we had made was thrown back by that unfortunate ten year-old girl. How can you pick a fight with that? How can you attack the morals of a grieving mother? Or take to task the actions of a despairing grandfather? You cannot. Look, I know, I tried, and it cost me everything. 
+<span class="firstLetter">W</span>E WERE MAKING REAL PROGRESS. Everything was going well. We had Lia embedded at *Bright Futures*. We were influencing social media and the general news outlets. The stories were spreading of the threat that transhumanism brought to our way of life. We believed we had real momentum, given the push we had from Lia's information. Then came Sally Taylor. She looked, at first, another terrific opportunity for us. In fact, our problems started with her. All progress we had made was thrown back by that unfortunate ten year-old girl. How can you pick a fight with that? How can you attack the morals of a grieving mother? Or take to task the actions of a despairing grandfather? You cannot. Look, I know, I tried, and it cost me everything. 
 
 Sally's story is a remarkable tale of persistence. Faced with an insurmountable wall of evidence, some still clung to a delicate hope. While many may feel that an ethical line was crossed by those close to her, you have to ask, when is any price too high when it comes to the life of a child? 
 

@@ -6,15 +6,11 @@
 # Container commands
 
 # Build a epub book
-# pandoc -S --toc-depth=1 -o consensus-draft-$(date +"%m-%d-%y").epub chapters/*.md 
-# pandoc -S -o consensus-draft.epub draft.md
+# pandoc -S --toc-depth=1 -o consensus-draft-$(date +"%m-%d-%y").epub pandoc.md chapters/*.md 
+# pandoc -S --toc-depth=1 -o consensus-draft.epub pandoc.md draft.md
 # Build a MOBI book
 # kindlegen *.epub
 
-
-
-# Brain tree photo
-# photo credit: Eduardo Mueses <a href="http://www.flickr.com/photos/38692570@N00/8650127689">Make the Connections</a> via <a href="http://photopin.com">photopin</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">(license)</a>
 
 
 # Cogs photo credit
