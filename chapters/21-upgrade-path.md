@@ -1,7 +1,7 @@
 
-# Chapter 22 - Upgrade path
+# Chapter 22
 
-After Joan's death I hadn't bothered much with the writing. I felt, what was the point? Afterall, the original agreement was that all the participants had to agree with what I said, that it was a reasonable record of fact, balanced if you like. With Joan dead and Melvin not contactable I had stalled. Three months after I had wrapped everything up I had a phone call.
+<span class="firstLetter">A</span>FTER JOAN'S DEATH I HADN'T BOTHERED MUCH with the writing. I felt, what was the point? Afterall, the original agreement was that all the participants had to agree with what I said, that it was a reasonable record of fact, balanced if you like. With Joan dead and Melvin not contactable I had stalled. Three months after I had wrapped everything up I had a phone call.
 
 It was Melvin. I guessed that he was mad at me because of Joan. I really hadn't expected to see him again, after that.
     "Charles, are you busy?"

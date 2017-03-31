@@ -1,21 +1,7 @@
 
-# Chapter 18 <br/> Consensus failure
+# Chapter 18
 
-<!-- Charles Godwin gives an interview. His narcissism completely derails his intended message.
-
-Narrative:
-    Charles recounts the day. A small group of acolytes (Susan, Hopkins, NEED SOME OTHERS) are in a conference room to view the interview. 
-    Charles arrives back earlier than they thought.
-    Although the interview is not live, they do not have to wait long.
-    Charles provides transcript - needs to be a hideous sentence that makes him seem awful
-    Recounts the reaction:
-        - Susan gets angry
-        - Hopkins distances himself
-        - Some just leave
-    He is now lonely, everyone has left him
-
--->
-I am still amazed that Joan wanted to meet me. You see, I worked her over more than anyone else. She was an easy target. What I did to her, in public and behind her back, that was unforgivable. I made her out to be the world's worst mother, on television in front of that world. I am not really sure why I did it. I pride myself on not taking the easy option; attacking Joan was the easiest option.
+<span class="firstLetter">I</span> AM STILL AMAZED that Joan wanted to meet me. You see, I worked her over more than anyone else. She was an easy target. What I did to her, in public and behind her back, that was unforgivable. I made her out to be the world's worst mother, on television in front of that world. I am not really sure why I did it. I pride myself on not taking the easy option; attacking Joan was the easiest option.
     Of course, as you know, that did not go well for me either. Kicking someone when they are down is not a good look. It looks as brutal as it is. 
 
 You will remember the interview I gave, of course. It was a while ago, though, and to see it again is worth it, to recall the details, see the blows rain down.
