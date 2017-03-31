@@ -44,11 +44,16 @@ div#TOC, nav#TOC
  
 /* ---- Headers and sections ---- */ 
 
-h1
+h1, h2
 {
    text-align: center;
 }
- 
+
+h2
+{
+    font-style: normal;
+}
+
 h1, h2, h3, h4, h5, h6 
 { 
     /*font-family: "Helvetica Neue", Helvetica, "Liberation Sans", Calibri, Arial, sans-serif; Sans-serif headers */
@@ -65,8 +70,11 @@ div div, section section /* Nested sections */
     margin-left: 2em; /* This will increasingly indent nested header sections */ 
     } 
  
-p {} 
- 
+.firstLetter{
+    font-size: 1.575em;
+    line-height: 1.2
+}
+
 blockquote 
     {  
     font-style: italic; 
@@ -217,7 +225,7 @@ pre /* Code blocks */
         { 
         /* On screen, use an auto scroll box for long lines, unless word-wrap is enabled */ 
         white-space: pre; 
-        overflow: auto; 
+        /*overflow: auto; */
         /* Dotted looks better on screen and solid seems to print better. */ 
         border: 1px dotted #777; 
         } 
