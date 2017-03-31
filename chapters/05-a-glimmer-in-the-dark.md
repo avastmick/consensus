@@ -1,7 +1,7 @@
 
-# Chapter 5 - A Glimmer in the Dark
+# Chapter 5
 
-Without doubt, my few days with Melvin were amongst the most emotional of my life. I am sure I can only fail in conveying the turmoil that he and Sally's mother, Joan, had lived through over the last year or so. Even as I recall these meetings and the frank monologues that Melvin gave, I find my carrying shy of the real weight that burdened the man; I know I shrank from him as he unfolded his bleak story. It was too much for any person.
+<span class="firstLetter">W</span>ITHOUT DOUBT, my few days with Melvin were amongst the most emotional of my life. I am sure I can only fail in conveying the turmoil that he and Sally's mother, Joan, had lived through over the last year or so. Even as I recall these meetings and the frank monologues that Melvin gave, I find my carrying shy of the real weight that burdened the man; I know I shrank from him as he unfolded his bleak story. It was too much for any person.
 
 Melvin was a tall man. I always think that being tall at an older age is unexpected; I do not know why. For his age, over seventy, he was healthy, slim and fit; he had that indescribable energy some people had, that seemed to ignite action in others. However, when he spoke of these times, of Sally's illness, he seemed to shrink in size and the spark of intensity, dimmed, as if the very words were hollowing him out.
 
