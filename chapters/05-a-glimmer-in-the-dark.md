@@ -1,5 +1,6 @@
 
-# Chapter 5 - A Glimmer in the Dark
+# 5
+## A Glimmer in the Dark
 
 Without doubt, my few days with Melvin were amongst the most emotional of my life. I am sure I can only fail in conveying the turmoil that he and Sally's mother, Joan, had lived through over the last year or so. Even as I recall these meetings and the frank monologues that Melvin gave, I find my carrying shy of the real weight that burdened the man; I know I shrank from him as he unfolded his bleak story. It was too much for any person.
 

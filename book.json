@@ -3,8 +3,10 @@
     "subtitle": "What price a child's life?",
     "author": "Michael W Clarke",
     "publisher": "avastmick",
-    "rights": "Copyright Michael W Clarke 2017",
+    "rights": "© 2017 Michael W Clarke",
     "styles": {
-        "mobi": "styles/mobi.css"
+        "pdf": "styles/ebook.css",
+        "epub": "styles/ebook.css",
+        "mobi": "styles/ebook.css"
     }
 }
