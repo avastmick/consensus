@@ -3,7 +3,7 @@
  
 cat .\chapters\*.md | sc .\draft.md 
 
-pandoc -S --toc-depth=1 -o consensus-draft.epub pandoc.md draft.md
+pandoc -S --toc-depth=1 -o consensus-draft.epub frontmatter.md draft.md
 kindlegen *.epub
 
 rm draft.md
