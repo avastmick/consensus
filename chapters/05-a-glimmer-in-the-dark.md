@@ -17,10 +17,10 @@ Melvin was a tall man. I always think that being tall at an older age is unexpec
 "I was knocked back. I had read something about it, years ago, they had managed to reach patients who were thought brain dead and their families had been able to communicate with them again. I looked at Gray, I'd have never thought that someone as healthy as she obviously was would have such a thing implanted in their brains. My thoughts, though, were interrupted. Raphaella was pressing me.
     'We need your approval to proceed, Melvin. The risks are low. We have done this a number of times.
 
-- meets Gray understands what a *Gate* is
+<!-- - meets Gray understands what a *Gate* is
 - the surgery and all its gory detail
 - Being arrested and child abuse
-- Bail and remote access
+- Bail and remote access -->
 
 Melvin sat on a comfortable leather chair, he sank into it, and said to me, "Imagine utter sensory deprivation. Not like those fashionable tanks that allow you to float in a dark silence. This is utter. This is nothing. The only thing that exists is that which your own brain produces.
 
