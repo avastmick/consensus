@@ -13,4 +13,4 @@
 
 # Any non-buildable items
 *.xlsx
-**Thumbs.db
+Thumbs.db
