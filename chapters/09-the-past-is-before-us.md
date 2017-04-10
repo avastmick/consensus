@@ -1,7 +1,7 @@
 
 # Chapter 9
 
-<!-- Edits here - unfinished chapter -->
+<!-- Edits here - unfinished chapter need to say that this is told by Gray -->
 
 <span class="firstLetter">I</span> HAVE PUT THAT DAY with Melvin behind me now. I have had to. I need to finish what I know of Lia. And, I have to say that speaking of her is not easy either. Not in the way that speaking of Sally is hard. No, rather it is that Lia is a closed book, all I have had is the cover, and that gives me no more than a rough summary of of the contents.
 
