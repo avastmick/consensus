@@ -9,4 +9,4 @@
 
 pandoc -S --toc-depth=1 -o consensus-draft-$(date +"%m-%d-%y").epub frontmatter.md chapters/*.md 
 # Build a MOBI book
-kindlegen *.epub
+#kindlegen *.epub
