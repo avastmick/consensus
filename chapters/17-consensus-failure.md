@@ -1,7 +1,6 @@
 
 # Chapter 17
-
-<span class="firstLetter">I</span> AM STILL AMAZED that Joan wanted to meet me. You see, I worked her over more than anyone else. She was an easy target. What I did to her, in public and behind her back, that was unforgivable. I made her out to be the world's worst mother, on television in front of that world. I am not really sure why I did it. I pride myself on not taking the easy option; attacking Joan was the easiest option.
+I AM STILL AMAZED that Joan wanted to meet me. You see, I worked her over more than anyone else. She was an easy target. What I did to her, in public and behind her back, that was unforgivable. I made her out to be the world's worst mother, on television in front of that world. I am not really sure why I did it. I pride myself on not taking the easy option; attacking Joan was the easiest option.
     Of course, as you know, that did not go well for me either. Kicking someone when they are down is not a good look. It looks as brutal as it is. 
 
 You will remember the interview I gave, of course. It was a while ago, though, and to see it again is worth it, to recall the details, see the blows rain down.

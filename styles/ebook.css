@@ -84,13 +84,21 @@ section section
     /* This will increasingly indent nested header sections */
 }
 
-.firstLetter {
+p:first-of-type:first-letter {
+    font-weight: bold;
     font-size: 1.575em;
-    line-height: 1.2
+    line-height: 1.2;
 }
+
 
 blockquote {
     font-style: italic;
+}
+
+blockquote p:first-of-type:first-letter {
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1;
 }
 
 li
@@ -126,7 +134,14 @@ ol li
 
 {}
 
-hr {}
+hr {
+    width: 25%;
+    align: center;
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+}
 
 
 /* ---- Some span elements --- */

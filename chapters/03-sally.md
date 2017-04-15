@@ -1,7 +1,6 @@
 
 # Chapter 3
-
-<span class="firstLetter">W</span>E WERE MAKING REAL PROGRESS. Everything was going well for us at the *Human Association*. We had Lia embedded at *Bright Futures*. We were influencing social media and the general news outlets. Our stories were spreading, telling the public of the threat that transhumanism brought to our way of life. Given the push we had from Lia's information, we believed we had real momentum. Then came Sally Taylor. She looked, at first, like another terrific opportunity for the *Human Association*. In fact, our problems started with her. All the progress we had made was thrown back by that unfortunate ten-year-old girl. 
+WE WERE MAKING REAL PROGRESS. Everything was going well for us at the *Human Association*. We had Lia embedded at *Bright Futures*. We were influencing social media and the general news outlets. Our stories were spreading, telling the public of the threat that transhumanism brought to our way of life. Given the push we had from Lia's information, we believed we had real momentum. Then came Sally Taylor. She looked, at first, like another terrific opportunity for the *Human Association*. In fact, our problems started with her. All the progress we had made was thrown back by that unfortunate ten-year-old girl. 
 
 Sally's story is a remarkable tale of persistence. Though faced with an insurmountable wall of evidence, those who loved her clung to a delicate hope. They nurtured it until, over time, it grew into a monumental thing that surmounted any obstacle. While many later felt an ethical line was crossed by those close to her, you have to ask yourself, what would you have done differently to save a child's life? 
 

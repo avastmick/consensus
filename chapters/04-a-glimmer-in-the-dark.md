@@ -1,7 +1,6 @@
 
 # Chapter 4
-
-<span class="firstLetter">W</span>ITHOUT DOUBT, those days with Melvin were amongst the most emotional of my life. I am sure I can only fail in conveying the turmoil that he and Sally's mother, Joan, had lived through over the last year or so. Even as I recall these meetings and the frank monologues that Melvin gave, I find myself carrying shy of the real weight that burdened the man; I know I shrank from him emotionally as he unfolded his bleak tale. It was too much for any person.
+WITHOUT DOUBT, those days with Melvin were amongst the most emotional of my life. I am sure I can only fail in conveying the turmoil that he and Sally's mother, Joan, had lived through over the last year or so. Even as I recall these meetings and the frank monologues that Melvin gave, I find myself carrying shy of the real weight that burdened the man; I know I shrank from him emotionally as he unfolded his bleak tale. It was too much for any person.
 
 Melvin Taylor was a tall man. I always thought that being tall at an old age was unexpected; it seemed to me a rare thing. For his age, in his mid-seventies, he was sprightly, slim and fit, and had that indescribable energy some people had, which ignited action in others. However, when Melvin spoke of these times, of Sally's illness, he seemed to reduce in stature and that spark of intensity dimmed, as if the story was hollowing him out, and each word of it carried a terrible cost to him. Nonetheless, he carried on, unfolding more and more to me, both the hopes and the despair, until I could see the extent to which he had been tortured by it all. I sat opposite him on a deep leather sofa in his living room, and sank into it while he went further into the detail of what happened to him.
 

@@ -1,7 +1,6 @@
 
 # Chapter 5
-
-<span class="firstLetter">A</span>T THE SAME TIME SALLY'S HEALTH WAS FAILING her on that cold day in London, Lia was undertaking the task we had given her. I have to be honest at this point, I truly thought Lia would pull off her challenge. She started well enough. Within a week she had connected to a small group of software engineers at *Bright Futures*.
+AT THE SAME TIME SALLY'S HEALTH WAS FAILING her on that cold day in London, Lia was undertaking the task we had given her. I have to be honest at this point, I truly thought Lia would pull off her challenge. She started well enough. Within a week she had connected to a small group of software engineers at *Bright Futures*.
 
 I met with Lia in a number of locations around Wellington while I was in New Zealand. A favourite was a cafe on Cuba Street, in the centre of the city. We never met anywhere that was not a neutral venue. I never learnt where she lived. Our conversations, which stretched over more than a week, had none of the intimacy of sharing that my sessions with Melvin had. She had no trust in me. She still felt vulnerable to me I assume. Or, maybe, there was nothing below the surface. I don't know. 
 
