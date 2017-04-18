@@ -10,7 +10,7 @@ before_script:
 draft-job:
   stage: build
   script:
-    - pandoc -S --toc-depth=1 -o consensus-draft-$(date +"%m-%d-%y").epub frontmatter.md chapters/*.md
+    - pandoc -S --toc-depth=1 -o consensus-draft-$(date +"%m-%d-%y").epub publish/epub-frontmatter.md chapters/*.md
     - pandoc -S --toc-depth=1 -o consensus-draft-$(date +"%m-%d-%y").pdf chapters/*.md
     - pandoc -S --toc-depth=1 -o consensus-draft-$(date +"%m-%d-%y").docx chapters/*.md
     - kindlegen *.epub

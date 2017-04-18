@@ -81,7 +81,7 @@ function epub () {
       fi                                                            
     done
     echo 'Outputting ' $1 ' chapter(s) of book in epub'
-    pandoc -S --toc-depth=1 -o consensus-draft-$(date +"%m-%d-%y").epub frontmatter.md ${CHAPTERS[*]}
+    pandoc -S --toc-depth=1 -o consensus-draft-$(date +"%m-%d-%y").epub publish/epub-frontmatter.md ${CHAPTERS[*]}
 
     echo "...done. Written "${CHAPTERS[*]}" to epub file"
 }
