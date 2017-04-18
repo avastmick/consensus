@@ -20,11 +20,19 @@ header {
 }
 
 .author,
-.date
+.date, .publisher, .rights
 /* Pandoc author(s) and date headers (h2.author and h3.date) */
 
 {
     text-align: center;
+}
+
+#header p:first-of-type:first-letter
+/* remove any paragraph formatting */
+{
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1;
 }
 
 
@@ -80,7 +88,8 @@ section section
 /* Nested sections */
 
 {
-    margin-left: 2em;
+    /* Don't want this - looks ugly */
+    /*margin-left: 2em;*/
     /* This will increasingly indent nested header sections */
 }
 
@@ -117,7 +126,12 @@ li > p
 ul
 /* Whole unordered list */
 
-{}
+{
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    text-indent: 0;
+}
 
 ul li
 /* Unordered list item */

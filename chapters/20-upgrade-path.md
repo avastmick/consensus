@@ -67,7 +67,9 @@ Melvin returned. "Sally gets very tired, physically. She's never been a kid for 
     "*Bright Futures*, you mean?"
     "I mean all of us, Charles. You too, remember. None of us come out of this with no blame. As the sheriff says, 'There ain't no white hats in this here town!'" He laughed. He stuck out his hand to me. I took it and he placed his other hand over the top on mine. "It's good to see you again. Sally's right, I like you. God knows why! But I do. She likes you too. And we all enjoy her torturing you."
 
-                                        THE END
+*****
+
+## THE END
 
 
 
