@@ -49,7 +49,7 @@ function web () {
       elif [ "$COUNT" -eq "$1" ]; then
         break
       else
-        CHAPTERS["$COUNT"]="$file"
+        CHAPTERS["$COUNT"]="$file publish/web-interstitial.md"
         let COUNT+=1
       fi                                                             
     done
