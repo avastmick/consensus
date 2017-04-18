@@ -56,7 +56,7 @@ function web () {
 
     echo 'Publishing ' $1 ' chapter(s) of book to website'
 
-    cat publish/frontmatter.md ${CHAPTERS[*]} publish/endmatter.md > $WEBREPO/content/book/consensus/chapters.md
+    cat publish/web-frontmatter.md ${CHAPTERS[*]} publish/web-endmatter.md > $WEBREPO/content/book/consensus/chapters.md
 
     echo "...done. Written "${CHAPTERS[*]}" to web site"
 }
