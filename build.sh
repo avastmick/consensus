@@ -34,7 +34,7 @@ function word () {
     echo "...done. Written "${CHAPTERS[*]}" to docx file"
 }
 
-function publishToWeb () {
+function web () {
     local COUNT=0
     CHAPTERS["$1"]=""
     for file in chapters/*.md
@@ -89,7 +89,7 @@ function epub () {
 if [ $# -ne 2 ]; then
     usage
 elif [ $1 == 'web' ]; then
-    echo web called for $2 chapters
+    web $2
 elif [ $1 == 'epub' ]; then
     epub $2
 elif [ $1 == 'word' ]; then
