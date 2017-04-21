@@ -20,7 +20,9 @@ header {
 }
 
 .author,
-.date, .publisher, .rights
+.date,
+.publisher,
+.rights
 /* Pandoc author(s) and date headers (h2.author and h3.date) */
 
 {
@@ -29,6 +31,7 @@ header {
 
 #header p:first-of-type:first-letter
 /* remove any paragraph formatting */
+
 {
     font-weight: normal;
     font-size: 1em;
@@ -62,9 +65,11 @@ nav#TOC {
 h1 {
     text-align: center;
 }
+
 h2 {
     text-align: center;
 }
+
 
 /*h2 {
     font-style: normal;
@@ -98,7 +103,6 @@ p:first-of-type:first-letter {
     font-size: 1.575em;
     line-height: 1.2;
 }
-
 
 blockquote {
     font-style: italic;
@@ -148,7 +152,9 @@ ol li
 
 {}
 
+
 /* Fancy ruled line */
+
 hr {
     width: 30%;
     align: center;
