@@ -17,6 +17,7 @@ function usage () {
 function word () {
     local COUNT=0
     CHAPTERS["$1"]=""
+    # Get the files into an array
     for file in chapters/*.md
     do
       if [[ ! -f "$file" ]]
@@ -33,6 +34,9 @@ function word () {
         let COUNT+=1
       fi                                                             
     done
+
+    
+    
     echo 'Outputting ' $1 ' chapter(s) of book in MS Word format'
     pandoc -S --toc-depth=1 -o consensus-draft-$(date +"%m-%d-%y").docx ${CHAPTERS[*]}
     echo "...done. Written "${CHAPTERS[*]}" to docx file"
