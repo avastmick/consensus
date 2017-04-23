@@ -35,7 +35,7 @@ function word () {
       fi                                                             
     done
 
-    
+
     
     echo 'Outputting ' $1 ' chapter(s) of book in MS Word format'
     pandoc -S --toc-depth=1 -o consensus-draft-$(date +"%m-%d-%y").docx ${CHAPTERS[*]}

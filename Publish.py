@@ -1,9 +1,29 @@
 #!/usr/bin/python
 
-import argparse
+import argparse 
+from subprocess import call, Popen
+from os import listdir, walk
+from os.path import isfile, join
+
 
 def epub(_chapters):
     print("Output to epub format, number of chapters: "+_chapters)
+    # TODO try to make OS independent and read from properties file
+    fileList = ['publish/epub-frontmatter.md']
+
+    for dirname, dirnames, filenames in walk('chapters'):
+        for filename in filenames:
+            fileList += [(join(dirname, filename))]
+
+    fileListStr = ""
+    if _chapters == 'all':
+        fileListStr += ' '.join(fileList)
+    else: # note: add '1' to slice to take into account frontmatter
+        fileListStr += ' '.join(fileList[0:int(_chapters)+1])
+
+    print "Publishing as epub the following: "+fileListStr
+
+    call('pandoc', '-S', '--toc-depth=1', '-o', 'consensus-draft-$(date +"%m-%d-%y).epub', fileListStr)
 
 def web(_chapters):
     print("Publish to web location, number of chapters: "+_chapters)
