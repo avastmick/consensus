@@ -1,7 +1,11 @@
 #!/bin/bash
 
 # Publishes the book in various formats and sections 
-WEBREPO="/home/avastmick/repos/avastmick.io"
+
+# Currently expects this to be a Hugo web repo
+# Make this variable the location where this files will go
+# WEBLOCATION="/home/avastmick/repos/avastmick.io/content/book/consensus/chapters"
+WEBLOCATION="/home/avastmick/repos/hugo-test/Sites/avastmick.io/content/chapters"
 
 function usage () {
     echo $0: [function] [chapter count]
@@ -33,7 +37,7 @@ function word () {
     pandoc -S --toc-depth=1 -o consensus-draft-$(date +"%m-%d-%y").docx ${CHAPTERS[*]}
     echo "...done. Written "${CHAPTERS[*]}" to docx file"
 }
-
+#  Need to create individual files and move into the web repo
 function web () {
     local COUNT=0
     CHAPTERS["$1"]=""
@@ -56,7 +60,8 @@ function web () {
 
     echo 'Publishing ' $1 ' chapter(s) of book to website'
 
-    cat publish/web-frontmatter.md ${CHAPTERS[*]} publish/web-endmatter.md > $WEBREPO/content/book/consensus/chapters.md
+    # Move this into a function to create the chapter files and copy over
+    cat publish/web-frontmatter.md ${CHAPTERS[*]} publish/web-endmatter.md > $WEBLOCATION/chapters.md
 
     echo "...done. Written "${CHAPTERS[*]}" to web site"
 }
