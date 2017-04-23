@@ -2,7 +2,7 @@
 
 import argparse, datetime, shlex
 from subprocess import call
-from os import listdir, walk
+from os import listdir, walk, mkdir, rmdir, rename
 from os.path import isfile, join
 
 
@@ -35,6 +35,45 @@ def epub(_chapters):
 
 def web(_chapters):
     print("Publish to web location, number of chapters: "+_chapters)
+    titleRegexp = "FILENAME"
+    # 00:01:01
+    timestamp = "TIMESTAMP"
+    # 
+    timeNow = str(datetime.datetime.now())
+    print(timeNow)
+    draftDir = "web-draft"
+
+    webLocation = "/home/avastmick/repos/hugo-test/Sites/avastmick.io/content/chapters"
+    # Create a tmp dir (web-draft)
+    mkdir(draftDir)
+    # Create frontmatter tmp with the right title and timestamp
+
+    # suck in frontmatter
+
+    # overwrite values in str
+
+    fileList = []
+
+    for dirname, dirnames, filenames in walk('chapters'):
+        for filename in filenames:
+            fileList += [(join(dirname, filename))] 
+    fileListStr = ""
+    if _chapters == 'all':
+        fileListStr += ' '.join(fileList)
+    else: 
+        fileListStr += ' '.join(fileList[0:int(_chapters)])
+
+    print "Publishing as epub the following: "+fileListStr 
+    # Create a file for each chapter [prologue.md, chapter-1.md, chapter-2.md]
+
+    # Concat the frontmatter str and file contents
+
+    # write file to tmp dir
+
+    # mv the files to the web location
+    # mv web-draft/*.md ../avastmick/...
+    # delete the tmp dir with all the files
+    rmdir(draftDir) 
 
 def word(_chapters):
     print("Output to MS Word format, number of chapters: "+_chapters)
