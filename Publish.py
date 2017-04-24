@@ -73,7 +73,7 @@ def epub(_chapters):
     print("Published book as: "+fileName)
 
 def web(_chapters):
-
+    mobi(_chapters)
     print("Publish to web location, number of chapters: "+_chapters)
     # Create a tmp dir
     if not path.exists(cfg['draftDir']):
@@ -92,7 +92,7 @@ def web(_chapters):
     if _chapters != 'all':
         fileList = fileList[0:int(_chapters)]
 
-    print "Publishing as epub the following: "+str(fileList) 
+    print "Publishing to web location the following: "+str(fileList) 
     # Loop over files to be created
     filecount = 0
     for filename in fileList:
@@ -132,12 +132,15 @@ def web(_chapters):
     # mv the files to the web location
     for dirname, dirnames, filenames in walk(cfg['draftDir']):
         for filename in filenames:
-            if cfg['ext'] in filename.lower():
+            if filename.endswith(cfg['ext']):
                 rename(join(dirname, filename),join(cfg['webLocation'],filename))
-            elif ".epub" in filename.lower():
-                rename(join(dirname, filename),join(cfg['webLocation'],cfg['book-name']+'-'+"chapters-1-"+str(filecount)+".epub")) 
-            elif ".mobi" in filename.lower():
-                rename(join(dirname, filename),join(cfg['webLocation'],cfg['book-name']+'-'+"chapters-1-"+str(filecount)+".mobi"))
+                print("Published to web: "+join(cfg['webLocation'],filename))
+            elif filename.endswith('.epub'):
+                rename(join(dirname, filename),join(cfg['webLocation'],cfg['book-name']+'-'+"chapters-1-"+str(filecount-1)+".epub")) 
+                print("Published to web: "+join(cfg['webLocation'],cfg['book-name']+'-'+"chapters-1-"+str(filecount-1)+".epub"))
+            elif filename.endswith('.mobi'):
+                rename(join(dirname, filename),join(cfg['webLocation'],cfg['book-name']+'-'+"chapters-1-"+str(filecount-1)+".mobi")) 
+                print("Published to web: "+join(cfg['webLocation'],cfg['book-name']+'-'+"chapters-1-"+str(filecount-1)+".mobi"))                
 
 def word(_chapters):
     print("Output to MS Word format, number of chapters: "+_chapters)
