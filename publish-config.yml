@@ -12,8 +12,8 @@ draftDir: draft
 webLocation: /home/avastmick/repos/avastmick.io/content/book/consensus/chapters
 web-frontmatter: web-frontmatter.md
 web-endmatter: web-endmatter.md
-firstFile: "Prologue"
-fileNameBase: "Chapter"
+firstFile: prologue
+fileNameBase: chapter
 
 #  Do not change!
 publishDir: publish
