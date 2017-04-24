@@ -156,7 +156,7 @@ def word(_chapters):
     if _chapters == 'all':
         fileListStr += ' '.join(fileList)
     else: # note: add '1' to slice to take into account frontmatter
-        fileListStr += ' '.join(fileList[0:int(_chapters)+1])
+        fileListStr += ' '.join(fileList[0:int(_chapters)])
 
     print "Publishing as epub the following: "+fileListStr
 
