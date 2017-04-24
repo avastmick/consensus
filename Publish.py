@@ -29,11 +29,10 @@ def mobi(_chapters):
     if not epubfound:
         epub(_chapters)
 
-    kindlegenCmd = 'kindlegen '+join('.',cfg['draftDir'],"*.epub")
-    args = shlex.split(kindlegenCmd)
+    args = 'kindlegen '+join('.',cfg['draftDir'],"*.epub")
     print("Converting .epub...")
     try:
-        call(args)
+        call(args.split())
     except:
         print("Kindlegen not found or not functioning. Is it installed?")
         exit(-1)
@@ -62,10 +61,9 @@ def epub(_chapters):
     date = datetime.date.today()
     fileName = join(cfg['draftDir'],cfg['book-name']+'-draft-'+str(date)+'.epub ')
 
-    pandocCmd = 'pandoc -S --toc-depth=1 -o '+fileName+fileListStr
-    args = shlex.split(pandocCmd)
+    args = 'pandoc -S --toc-depth=1 -o '+fileName+' '+fileListStr
     try:
-        call(args)
+        call(args.split())
     except:
         print("Pandoc not found or not functioning. Is it installed?")
         exit(-1)
@@ -163,11 +161,9 @@ def word(_chapters):
     date = datetime.date.today()
     fileName = join(cfg['draftDir'],cfg['book-name']+'-draft-'+str(date)+'.docx ')
 
-    pandocCmd = 'pandoc -S --toc-depth=1 -o '+fileName+fileListStr
-    args = shlex.split(pandocCmd)
-
+    args = 'pandoc -S --toc-depth=1 -o '+fileName+' '+fileListStr
     try:
-        call(args)
+        call(args.split())
     except:
         print("Pandoc not found or not functioning. Is it installed?")
         exit(-1)
