@@ -1,17 +1,27 @@
 #!/usr/bin/python
 
-import argparse, datetime, shlex
+import argparse, datetime, shlex, yaml
+from string import Template
 from subprocess import call
-from os import listdir, walk, mkdir, rmdir, rename
+from os import path, listdir, walk, mkdir, rmdir, rename
 from os.path import isfile, join
 
+CONFIG_FILE = 'publish-config.yml'
+cfg = ''
+
+def loadConfig():
+    global cfg
+    with open(CONFIG_FILE, 'r') as ymlfile:
+        cfg = yaml.load(ymlfile)
 
 def epub(_chapters):
     print("Output to epub format, number of chapters: "+_chapters)
-    # TODO try to make OS independent and read from properties file
-    fileList = ['publish/epub-frontmatter.md']
+    if not path.exists(cfg['draftDir']):
+        mkdir(cfg['draftDir'])
 
-    for dirname, dirnames, filenames in walk('chapters'):
+    fileList = [join(cfg['publishDir'],cfg['epub-frontmatter'])]
+
+    for dirname, dirnames, filenames in walk(cfg['sourceDir']):
         for filename in filenames:
             fileList += [(join(dirname, filename))]
 
@@ -24,7 +34,7 @@ def epub(_chapters):
     print "Publishing as epub the following: "+fileListStr
 
     date = datetime.date.today()
-    fileName = 'consensus-draft-'+str(date)+'.epub '
+    fileName = join(cfg['draftDir'],cfg['book-name']+'-draft-'+str(date)+'.epub ')
 
     pandocCmd = 'pandoc -S --toc-depth=1 -o '+fileName+fileListStr
     args = shlex.split(pandocCmd)
@@ -34,52 +44,75 @@ def epub(_chapters):
     print("Published book as: "+fileName)
 
 def web(_chapters):
+
     print("Publish to web location, number of chapters: "+_chapters)
-    titleRegexp = "FILENAME"
-    # 00:01:01
-    timestamp = "TIMESTAMP"
-    # 
-    timeNow = str(datetime.datetime.now())
-    print(timeNow)
-    draftDir = "web-draft"
+    # Create a tmp dir
+    if not path.exists(cfg['draftDir']):
+        mkdir(cfg['draftDir'])
+    # suck in frontmatter into template
+    frontmatter = []
+    with open(join(cfg['publishDir'],cfg['web-frontmatter']), 'r') as fmfile:
+        frontmatter=fmfile.read()
 
-    webLocation = "/home/avastmick/repos/hugo-test/Sites/avastmick.io/content/chapters"
-    # Create a tmp dir (web-draft)
-    mkdir(draftDir)
-    # Create frontmatter tmp with the right title and timestamp
-
-    # suck in frontmatter
-
-    # overwrite values in str
-
+    # Create the file list
     fileList = []
-
-    for dirname, dirnames, filenames in walk('chapters'):
+    for dirname, dirnames, filenames in walk(cfg['sourceDir']):
         for filename in filenames:
             fileList += [(join(dirname, filename))] 
-    fileListStr = ""
-    if _chapters == 'all':
-        fileListStr += ' '.join(fileList)
-    else: 
-        fileListStr += ' '.join(fileList[0:int(_chapters)])
+    # Trim according to num chapters
+    if _chapters != 'all':
+        fileList = fileList[0:int(_chapters)]
 
-    print "Publishing as epub the following: "+fileListStr 
-    # Create a file for each chapter [prologue.md, chapter-1.md, chapter-2.md]
+    print "Publishing as epub the following: "+str(fileList) 
+    # Loop over files to be created
+    filecount = 0
+    for filename in fileList:
+        chapter = ""
+        # overwrite values in frontmatter str 
+        fm = Template(str(frontmatter))
+        if filecount == 0:
+            chapter = fm.substitute(FILENAME=cfg['firstFile'], TIMESTAMP='00:0'+str(filecount+1)+':0'+str(filecount+1))
+        else:
+            chapter = fm.substitute(FILENAME=cfg['fileNameBase']+'-'+str(filecount), TIMESTAMP='00:0'+str(filecount+1)+':0'+str(filecount+1))
+        # concat
+        with open(filename, 'r') as chaptfile:
+            chapter += chaptfile.read()  
+            chaptfile.close()
+        # write out chapter file
+        chaptname = ""
+        if filecount == 0:
+            chaptname = cfg['firstFile']+cfg['ext']
+        else:
+            chaptname = cfg['fileNameBase']+'-'+str(filecount)+cfg['ext']
+        chaptfile = open(join(cfg['draftDir'],chaptname), "w")
+        chaptfile.write(chapter)
+        chaptfile.close()
 
-    # Concat the frontmatter str and file contents
-
-    # write file to tmp dir
-
+        # increment counter
+        filecount += 1
+    # Add end matter chapter
+    chapter = fm.substitute(FILENAME=cfg['fileNameBase']+'-'+str(filecount), TIMESTAMP='00:0'+str(filecount+1)+':0'+str(filecount+1))
+    with open(join(cfg['publishDir'],cfg['web-endmatter']), 'r') as chaptfile:
+        chapter += chaptfile.read() 
+        chaptfile.close()
+    # write out chapter file
+    chaptfileStr = join(cfg['draftDir'],cfg['fileNameBase']+'-'+str(filecount)+cfg['ext'])
+    chaptfile = open(chaptfileStr, "w")
+    chaptfile.write(chapter)
+    chaptfile.close()
     # mv the files to the web location
-    # mv web-draft/*.md ../avastmick/...
-    # delete the tmp dir with all the files
-    rmdir(draftDir) 
+    for dirname, dirnames, filenames in walk(cfg['draftDir']):
+        for filename in filenames:
+            if cfg['ext'] in filename.lower():
+                rename(join(dirname, filename),join(cfg['webLocation'],filename)) 
 
 def word(_chapters):
     print("Output to MS Word format, number of chapters: "+_chapters)
-    fileList = []
+    if not path.exists(cfg['draftDir']):
+        mkdir(cfg['draftDir'])
 
-    for dirname, dirnames, filenames in walk('chapters'):
+    fileList = []
+    for dirname, dirnames, filenames in walk(cfg['sourceDir']):
         for filename in filenames:
             fileList += [(join(dirname, filename))]
 
@@ -92,7 +125,7 @@ def word(_chapters):
     print "Publishing as epub the following: "+fileListStr
 
     date = datetime.date.today()
-    fileName = 'consensus-draft-'+str(date)+'.docx '
+    fileName = join(cfg['draftDir'],cfg['book-name']+'-draft-'+str(date)+'.docx ')
 
     pandocCmd = 'pandoc -S --toc-depth=1 -o '+fileName+fileListStr
     args = shlex.split(pandocCmd)
@@ -110,8 +143,11 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     if args.format == "epub":
+        loadConfig()
         epub(args.chapters)
     elif args.format == "word":
+        loadConfig()
         word(args.chapters)
     elif args.format == "web":
+        loadConfig()        
         web(args.chapters)

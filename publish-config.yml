@@ -1,0 +1,20 @@
+# Configuration file for the Publish.py script
+
+#  General params
+book-name: consensus
+ext: .md
+
+# epub
+epub-frontmatter: epub-frontmatter.md
+
+#  web
+draftDir: draft
+webLocation: /home/avastmick/repos/avastmick.io/content/book/consensus/chapters
+web-frontmatter: web-frontmatter.md
+web-endmatter: web-endmatter.md
+firstFile: "Prologue"
+fileNameBase: "Chapter"
+
+#  Do not change!
+publishDir: publish
+sourceDir: chapters
