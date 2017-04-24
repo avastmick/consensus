@@ -104,7 +104,11 @@ def web(_chapters):
     for dirname, dirnames, filenames in walk(cfg['draftDir']):
         for filename in filenames:
             if cfg['ext'] in filename.lower():
-                rename(join(dirname, filename),join(cfg['webLocation'],filename)) 
+                rename(join(dirname, filename),join(cfg['webLocation'],filename))
+            elif ".epub" in filename.lower():
+                rename(join(dirname, filename),join(cfg['webLocation'],cfg['book-name']+'-'+"chapters-1-"+str(filecount)+".epub")) 
+            elif ".mobi" in filename.lower():
+                rename(join(dirname, filename),join(cfg['webLocation'],cfg['book-name']+'-'+"chapters-1-"+str(filecount)+".mobi"))
 
 def word(_chapters):
     print("Output to MS Word format, number of chapters: "+_chapters)

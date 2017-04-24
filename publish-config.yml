@@ -6,6 +6,7 @@ ext: .md
 
 # epub
 epub-frontmatter: epub-frontmatter.md
+epub-ext: .epub
 
 #  web
 draftDir: draft
