@@ -14,6 +14,32 @@ def loadConfig():
     with open(CONFIG_FILE, 'r') as ymlfile:
         cfg = yaml.load(ymlfile)
 
+def mobi(_chapters):
+    print("Output to mobi (Kindle) format, number of chapters: "+_chapters)
+    if not path.exists(cfg['draftDir']):
+        mkdir(cfg['draftDir'])
+    # Find the epub and convert
+    epubfound = False
+    for dirname, dirnames, filenames in walk(cfg['draftDir']):
+        for filename in filenames:
+            if filename.endswith('.epub'):
+                epubfound = True
+                print("Got epub file to convert: "+filename)
+                break
+    if not epubfound:
+        epub(_chapters)
+
+    kindlegenCmd = 'kindlegen '+join('.',cfg['draftDir'],"*.epub")
+    args = shlex.split(kindlegenCmd)
+    print("Converting .epub...")
+    try:
+        call(args)
+    except:
+        print("Kindlegen not found or not functioning. Is it installed?")
+        exit(-1)
+    print("...done.")
+    print("Published book as .mobi")    
+
 def epub(_chapters):
     print("Output to epub format, number of chapters: "+_chapters)
     if not path.exists(cfg['draftDir']):
@@ -38,8 +64,11 @@ def epub(_chapters):
 
     pandocCmd = 'pandoc -S --toc-depth=1 -o '+fileName+fileListStr
     args = shlex.split(pandocCmd)
-
-    call(args)
+    try:
+        call(args)
+    except:
+        print("Pandoc not found or not functioning. Is it installed?")
+        exit(-1)
 
     print("Published book as: "+fileName)
 
@@ -134,14 +163,18 @@ def word(_chapters):
     pandocCmd = 'pandoc -S --toc-depth=1 -o '+fileName+fileListStr
     args = shlex.split(pandocCmd)
 
-    call(args)
+    try:
+        call(args)
+    except:
+        print("Pandoc not found or not functioning. Is it installed?")
+        exit(-1)
 
     print("Published book as: "+fileName)
 
 # Handle input and pass to publish functions
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Publishes book content to multiple formats")
-    parser.add_argument('format', help="The format to output (default: %(default)s)", nargs='?', choices=["epub", "word", "web"], default="epub")
+    parser.add_argument('format', help="The format to output (default: %(default)s)", nargs='?', choices=["epub", "mobi", "word", "web"], default="epub")
     parser.add_argument('chapters', help="Number of chapters (e.g. 5, or \"all\") (default: %(default)s)", nargs='?', default="all")
 
     args = parser.parse_args()
@@ -149,6 +182,9 @@ if __name__ == '__main__':
     if args.format == "epub":
         loadConfig()
         epub(args.chapters)
+    elif args.format == "mobi":
+        loadConfig()
+        mobi(args.chapters)
     elif args.format == "word":
         loadConfig()
         word(args.chapters)
