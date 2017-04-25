@@ -71,9 +71,10 @@ h2 {
 }
 
 
-/*h2 {
-    font-style: normal;
-}*/
+h4 {
+    font-style: italic;
+    font-size: 1em;
+}
 
 h1,
 h2,
