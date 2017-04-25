@@ -134,11 +134,11 @@ def web(_chapters):
                 rename(join(dirname, filename),join(cfg['webLocation'],filename))
                 print("Published to web: "+join(cfg['webLocation'],filename))
             elif filename.endswith('.epub'):
-                rename(join(dirname, filename),join(cfg['webLocation'],cfg['book-name']+'-'+"chapters-1-"+str(filecount-1)+".epub")) 
-                print("Published to web: "+join(cfg['webLocation'],cfg['book-name']+'-'+"chapters-1-"+str(filecount-1)+".epub"))
+                rename(join(dirname, filename),join(cfg['webLocation'],cfg['book-name']+".epub")) 
+                print("Published to web: "+join(cfg['webLocation'],cfg['book-name']+".epub"))
             elif filename.endswith('.mobi'):
-                rename(join(dirname, filename),join(cfg['webLocation'],cfg['book-name']+'-'+"chapters-1-"+str(filecount-1)+".mobi")) 
-                print("Published to web: "+join(cfg['webLocation'],cfg['book-name']+'-'+"chapters-1-"+str(filecount-1)+".mobi"))                
+                rename(join(dirname, filename),join(cfg['webLocation'],cfg['book-name']+".mobi")) 
+                print("Published to web: "+join(cfg['webLocation'],cfg['book-name']+".mobi"))                
 
 def word(_chapters):
     print("Output to MS Word format, number of chapters: "+_chapters)
