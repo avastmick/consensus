@@ -69,6 +69,7 @@ def epub(_chapters):
 
     print("Published book as: "+fileName)
 
+# TODO: Delete all files in the web publish location
 def web(_chapters):
     mobi(_chapters)
     print("Publish to web location, number of chapters: "+_chapters)

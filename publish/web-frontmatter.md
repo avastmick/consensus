@@ -11,6 +11,6 @@ cover = "consensus-cover-girl-vsm-2.jpg"
 coverpath = "/img/consensus"
 images = ["/img/consensus/consensus-cover-girl-vsm-2.jpg"]
 bookcontents = "true"
-draft = "true"
+draft = "false"
 
 +++
