@@ -1,6 +1,10 @@
 
 # Chapter 3
 
+<!-- TODO: Work out how to auto-generate attributes in the endmatter. So the Chapter number and the publish date.
+
+ -->
+
 Find out what happens next, here on **May 30th 2017!**
 \
 \
