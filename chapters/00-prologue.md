@@ -20,10 +20,9 @@ We all wanted to rights some wrongs too, I suppose. No one wants to live their l
 
 
 #### Postscript
+What follows here is that book. I recorded many of the meetings I had and tried to be as accurate as possible in transcription. The dialogues transcribed took place when I travelled to meet the people involved a year or more after the events of the story. In some cases, and where I could, they tell the story directly, in their own words, with only my editorial alteration.
 
-*What follows here is that book. I recorded many of the meetings I had and tried to be as accurate as possible in transcription. The dialogues transcribed took place when I travelled to meet the people involved a year or more after the events of the story. In some cases, and where I could, they tell the story directly, in their own words, with only my editorial alteration.*
-
-*I could not publish the book then, as hoped, but now, years later, with all those involved gone or dead, I can.*
+I could not publish the book then, as hoped, but now, years later, with all those involved gone or dead, I can.
 
 *Charles Godwin, August, 20\*\**
 

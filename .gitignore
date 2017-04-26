@@ -5,6 +5,7 @@ editing
 *.epub
 *.mobi
 *.pdf
+*.docx
 
 # Any sublime text conf
 *.sublime*
@@ -14,4 +15,5 @@ editing
 
 # Any non-buildable items
 *.xlsx
+*.tasks
 Thumbs.db
