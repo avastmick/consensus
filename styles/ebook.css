@@ -138,6 +138,12 @@ ul
     text-indent: 0;
 }
 
+ul p:first-of-type:first-letter {
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1;
+}
+
 ul li
 /* Unordered list item */
 
@@ -158,7 +164,6 @@ ol li
 
 hr {
     width: 30%;
-    align: center;
     margin: 3em 0 3em 0;
     padding: 0;
     border: none;
@@ -531,7 +536,8 @@ a.reversefootnote
 
 @media print {
     a[href^="#fnref"],
-    a.reversefootnote/* Pandoc, MultiMarkdown */
+    a.reversefootnote
+    /* Pandoc, MultiMarkdown */
     {
         /* Don't display these at all in print since the arrow is only something to click on */
         display: none;
@@ -560,5 +566,3 @@ div.footnotes li[id^="fn"]
         display: none;
     }
 }
-
-\ No newline at end of file

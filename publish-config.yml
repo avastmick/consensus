@@ -6,6 +6,7 @@ ext: .md
 
 # epub
 epub-frontmatter: epub-frontmatter.md
+epub-endmatter: epub-endmatter.md
 epub-ext: .epub
 
 #  web
@@ -15,6 +16,7 @@ web-frontmatter: web-frontmatter.md
 web-endmatter: web-endmatter.md
 firstFile: prologue
 fileNameBase: chapter
+endmatter-title: "Read More..."
 
 #  Do not change!
 publishDir: publish
