@@ -13,7 +13,7 @@ def loadConfig():
     global cfg
     with open(CONFIG_FILE, 'r') as ymlfile:
         cfg = yaml.load(ymlfile)
-# TODO: Fix mobi generation warnings and document identifier etc
+
 def mobi(_chapters):
     print("Output to mobi (Kindle) format, number of chapters: "+_chapters)
     if not path.exists(cfg['draftDir']):
@@ -142,26 +142,17 @@ def web(_chapters):
 
 def word(_chapters):
     print("Output to MS Word format, number of chapters: "+_chapters)
-    if not path.exists(cfg['draftDir']):
-        mkdir(cfg['draftDir'])
-
-    fileList = []
-    for dirname, dirnames, filenames in walk(cfg['sourceDir']):
+    # Create epub and use calibre ebook-convert to create docx
+    epub(_chapters)
+    epubFilename = ''
+    for dirname, dirnames, filenames in walk(cfg['draftDir']):
         for filename in filenames:
-            fileList += [(join(dirname, filename))]
+            if filename.endswith('epub'):
+                epubFilename = filename
+                break
+    fileName = join(cfg['draftDir'],epubFilename.split('.')[0]+'.docx')
 
-    fileListStr = ""
-    if _chapters == 'all':
-        fileListStr += ' '.join(fileList)
-    else: # note: add '1' to slice to take into account frontmatter
-        fileListStr += ' '.join(fileList[0:int(_chapters)+1])
-
-    print "Publishing as epub the following: "+fileListStr
-
-    date = datetime.date.today()
-    fileName = join(cfg['draftDir'],cfg['book-name']+'-draft-'+str(date)+'.docx ')
-
-    args = 'pandoc -S --toc-depth=1 -o '+fileName+' '+fileListStr
+    args = 'ebook-convert '+join(cfg['draftDir'],epubFilename)+' '+fileName
     try:
         call(args.split())
     except:
@@ -171,7 +162,6 @@ def word(_chapters):
     print("Published book as: "+fileName)
 
 # TODO: - Add PDF generator
-# TODO: - Configure MS WORD output to have template for formatting
 # Handle input and pass to publish functions
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Publishes book content to multiple formats")

@@ -1,12 +1,13 @@
  # Pre-launch
  ✔ Check epub format at http://validator.idpf.org/ @done (17-04-26 14:53)
  ✔ Check ebook.css at https://jigsaw.w3.org/css-validator/#validate_by_upload+with_options @done (17-04-26 14:53)
- ☐ Run Hugo locally without -D (draft)flag, to check the content is all there
+ ✔ Run Hugo locally without -D (draft)flag, to check the content is all there @done (17-04-27 15:42)
  ☐ Check ebook output on Kindle
- ☐ Decide on including Chapter 3 - Sally
+ ✔ Decide on including Chapter 3 - Sally @done (17-04-27 15:42)
  ☐ Clear all TODOs
  ☐ Sign final release and create tag
 
 
 # Post Launch
  ☐ Ensure that the Publish.py and publish-config.yml are syncced to the book-template repo.
+ ☐ Update book-template README as now I use Calibre ebook-convert to create docx file
