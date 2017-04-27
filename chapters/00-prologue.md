@@ -25,5 +25,5 @@ We all wanted to rights some wrongs too, I suppose. No one wants to live their l
 
 *I could not publish the book then, as hoped, but now, years later, with all those involved gone or dead, I can.*
 
-*-Charles Godwin, August, 20\*\**
+*-- Charles Godwin, August, 20\*\**
 
