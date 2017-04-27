@@ -19,7 +19,7 @@ Not long afterwards, some supporters came to me. They asked me to write a book o
 We all wanted to rights some wrongs too, I suppose. No one wants to live their life the villain, and many of us were still thought by others to be just that. To paraphrase a dear friend of mine: there were no black hats in this story, nor any white. We were all of us to blame for what happened. 
 
 
-#### Postscript - (Some years later)
+#### Postscript -- (Some years later)
 
 *What follows here is that book. I recorded many of the meetings I had and tried to be as accurate as possible in transcription. The dialogues transcribed took place when I travelled to meet the people involved a year or more after the events of the story. In some cases, and where I could, they tell the story directly, in their own words, with only my editorial alteration.*
 
