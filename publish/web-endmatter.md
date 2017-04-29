@@ -1,5 +1,5 @@
 
-# Chapter 3
+# Chapter 4
 
 <!-- TODO: Work out how to auto-generate attributes in the endmatter. So the Chapter number and the publish date.
 
