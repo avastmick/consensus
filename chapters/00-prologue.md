@@ -1,6 +1,6 @@
 
 # Prologue
-THE FUTURE RARELY MEETS ONE's EXPECTATIONS. It is often a let-down, a pale version of the possibilities one had in mind. And so it was for me. 
+THE FUTURE RARELY MEETS ONES EXPECTATIONS. It is often a let-down, a pale version of the possibilities one had in mind. And so it was for me. 
 
 My name is Charles Godwin, and when I was a young man, I thought the future would be a place of wonder and rich potential. Those times were exciting, with so much change in the air. But, when the future I wished for did arrive, I found I had no place in it. 
 
