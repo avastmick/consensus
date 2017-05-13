@@ -1,13 +1,17 @@
- # Pre-launch
- ✔ Check epub format at http://validator.idpf.org/ @done (17-04-26 14:53)
- ✔ Check ebook.css at https://jigsaw.w3.org/css-validator/#validate_by_upload+with_options @done (17-04-26 14:53)
- ✔ Run Hugo locally without -D (draft)flag, to check the content is all there @done (17-04-27 15:42)
- ☐ Check ebook output on Kindle
- ✔ Decide on including Chapter 3 - Sally @done (17-04-27 15:42)
- ☐ Clear all TODOs
- ☐ Sign final release and create tag
+ # Consensus
+ ✔ Publish Chapters 1 -3 @done (17-05-05 15:07)
+ ☐ Next Chapter - #4 send through to Kelly by 14th May
+ ☐ Clear TODOs in files
+ ☐ Post up to web novels site
+ ☐ Add link to Reddit
+ ☐ Book cover art work
+ ☐ 
 
+ # Next Books
+ ☐ Decide on next books
 
-# Post Launch
- ☐ Ensure that the Publish.py and publish-config.yml are syncced to the book-template repo.
- ☐ Update book-template README as now I use Calibre ebook-convert to create docx file
+ # Options
+ ☐ A Lost Man
+ ☐ Consensus Series
+   ☐ Book 2 - The Split
+   ☐ Book 3 - Rust - the reduction of natural man
