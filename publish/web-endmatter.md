@@ -1,11 +1,11 @@
 
-# Chapter 4
+# Chapter 5
 
 <!-- TODO: Work out how to auto-generate attributes in the endmatter. So the Chapter number and the publish date.
 
  -->
 
-Find out what happens next, here on **May 30th 2017!**
+Find out what happens next, here on **June 30th 2017!**
 \
 \
 \
@@ -17,7 +17,7 @@ Find out what happens next, here on **May 30th 2017!**
 ### Acknowledgements
 
 - Support: Jean Clarke
-- Editing assistance: Jean Clarke, Kelly Caffrey
+- Editing assistance: Kelly Caffrey, Jean Clarke 
 - Cover art: Design by avastmick.
 - Cover art image credit: Piyushgiri Revagar, [Clever Cogs!](http://www.flickr.com/photos/123868529@N03/28777007826) usage via a Creative Commons license.
 
