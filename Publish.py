@@ -91,8 +91,7 @@ def epub(_chapters):
 def web(_chapters):
     # Split the param and take the highest number to pass through.
     chapts = _chapters.split(':')
-    mobi(chapts[-1]) # Send the last element
-
+    mobi(str(int(chapts[-1])+1))
     firstChapt = 0
     lastChapt = 0
     if len(chapts) != 1:
