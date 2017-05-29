@@ -20,13 +20,14 @@ header {
 }
 
 .author,
-.date
+.date,
+.publisher,
+.rights
 /* Pandoc author(s) and date headers (h2.author and h3.date) */
 
 {
     text-align: center;
 }
-
 
 /* Pandoc table of contents DIV when using the --toc option. 
    NOTE: this doesn't support Pandoc's --id-prefix option for #TOC and #header.  
@@ -54,13 +55,23 @@ nav#TOC {
 h1 {
     text-align: center;
 }
-h2 {
-    text-align: center;
+
+h1 + p:first-of-type:first-letter {
+    font-weight: bold;
+    font-size: 1.575em;
+    line-height: 1.2;
 }
 
-/*h2 {
-    font-style: normal;
-}*/
+h2 {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+
+h4 {
+    font-style: italic;
+    font-size: 1em;
+}
 
 h1,
 h2,
@@ -72,6 +83,11 @@ h6 {
     /* Firefox, Chrome, and Safari do not support the property value "avoid" */
 }
 
+h4 p:first-of-type:first-letter {
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1;
+}
 
 /* Pandoc with --section-divs option */
 
@@ -80,13 +96,9 @@ section section
 /* Nested sections */
 
 {
-    margin-left: 2em;
+    /* Don't want this - looks ugly */
+    /*margin-left: 2em;*/
     /* This will increasingly indent nested header sections */
-}
-
-.firstLetter {
-    font-size: 1.575em;
-    line-height: 1.2
 }
 
 blockquote {
@@ -109,7 +121,12 @@ li > p
 ul
 /* Whole unordered list */
 
-{}
+{
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    text-indent: 0;
+}
 
 ul li
 /* Unordered list item */
@@ -126,7 +143,17 @@ ol li
 
 {}
 
-hr {}
+
+/* Fancy ruled line */
+
+hr {
+    width: 30%;
+    margin: 3em 0 3em 0;
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+}
 
 
 /* ---- Some span elements --- */
@@ -493,7 +520,8 @@ a.reversefootnote
 
 @media print {
     a[href^="#fnref"],
-    a.reversefootnote/* Pandoc, MultiMarkdown */
+    a.reversefootnote
+    /* Pandoc, MultiMarkdown */
     {
         /* Don't display these at all in print since the arrow is only something to click on */
         display: none;
@@ -522,5 +550,3 @@ div.footnotes li[id^="fn"]
         display: none;
     }
 }
-
-\ No newline at end of file
