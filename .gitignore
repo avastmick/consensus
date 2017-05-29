@@ -1,9 +1,11 @@
-# Book build output
+# Editing
+editing
 
 # eBook build output
 *.epub
 *.mobi
 *.pdf
+*.docx
 
 # Any sublime text conf
 *.sublime*
@@ -13,4 +15,4 @@
 
 # Any non-buildable items
 *.xlsx
-**Thumbs.db
+Thumbs.db

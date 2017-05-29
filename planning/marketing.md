@@ -17,14 +17,14 @@
 [ ] Set up Bing Analytics
 [x] Set up Disqus
 [x] Launch website [The Connected](http://www.avastmick.io)
-[ ] Create Wordpress site
-[ ] Create Facebook page for author
+[x] Create Wordpress site
+[x] Create Facebook page for author
 [ ] Create Instagram site
 
 [] Complete _First Draft_ ~55K words
 
 [] Work out way to allow third-party editing
-[] Send Kelly first draft
+[x] Send Kelly first draft
 
 
 # April 2017
