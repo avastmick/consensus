@@ -77,4 +77,4 @@ Sally thought she was asleep and dreaming. She was dreaming of letters. They had
 
 I danced, I got up and danced about the room, when I read her words! I have never felt joy like that moment. I just kept staring at those words on the screen of the tablet.
 
-"*hello grandad.*" 
+*::hello grandad.::* 
