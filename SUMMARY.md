@@ -2,35 +2,24 @@
 
 In the near future technology is encroaching on our biology. People are changing themselves into something new. Amidst it all is a young girl who falls mysteriously ill. Her mother and grandfather are desperate. Opposing forces circle, seeing her as an opportunity to further their cause. The options to save her life are stark and may leave her less than human.
 
-- chapters/00-prologue.md
-- chapters/01-lia-1.0.md
-- chapters/02-lia-2.0.md
-- chapters/03-sally.md
-- chapters/04-a-glimmer-in-the-dark.md
-- chapters/05-we-are-all-of-us-responsible.md
-- chapters/06-one-cant-live-on-words-alone.md
-- chapters/07-revert-to-previous-commit.md
-- chapters/08-the-image-of-frankenstein.md
-- chapters/09-the-past-is-before-us.md
-- chapters/10-mr-godwin.md
-- chapters/11-the-joy-of-text-is-overrated.md
-- chapters/12-consensus-1.0.md
-- chapters/13-consensus-2.0.md
-- chapters/14-we-are-connected.md
-- chapters/15-old-days-connections.md
-- chapters/16-bad-old-days.md
-- chapters/17-consensus-failure.md
-- chapters/18-connection-bonds.md
-- chapters/19-the-beginning.md
-- chapters/20-upgrade-path.md
-
-
-
-
-
-
-
-
-
-
-
+- [Prologue](chapters/00-prologue.md)
+- [Chapter 1 - Lia](chapters/01-lia-1.0.md)
+- [Chapter 2 - Lia 2.0](chapters/02-lia-2.0.md)
+- [Chapter 3 - Sally](chapters/03-sally.md)
+- [Chapter 4 - A glimmer in the dark](chapters/04-a-glimmer-in-the-dark.md)
+- [Chapter 5 - We are all of us responsible](chapters/05-we-are-all-of-us-responsible.md)
+- [Chapter 6 - One can't live on words alone](chapters/06-one-cant-live-on-words-alone.md)
+- [Chapter 7 - Revert to previous commit](chapters/07-revert-to-previous-commit.md)
+- [Chapter 8 - The image of Frankenstein](chapters/08-the-image-of-frankenstein.md)
+- [Chapter 9 - The past is before us](chapters/09-the-past-is-before-us.md)
+- [Chapter 10 - Mr Godwin](chapters/10-mr-godwin.md)
+- [Chapter 11 - The joy of text is overrated](chapters/11-the-joy-of-text-is-overrated.md)
+- [Chapter 12 - Consensus](chapters/12-consensus-1.0.md)
+- [Chapter 13 - Consensus 2.0](chapters/13-consensus-2.0.md)
+- [Chapter 14 - We are connected](chapters/14-we-are-connected.md)
+- [Chapter 15 - Old days connections](chapters/15-old-days-connections.md)
+- [Chapter 16 - Bad old days](chapters/16-bad-old-days.md)
+- [Chapter 17 - Consensus failure](chapters/17-consensus-failure.md)
+- [Chapter 18 - Connection bonds](chapters/18-connection-bonds.md)
+- [Chapter 19 - The beginning](chapters/19-the-beginning.md)
+- [Chapter 20 - Upgrade path](chapters/20-upgrade-path.md)
