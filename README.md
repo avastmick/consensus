@@ -6,6 +6,22 @@ The world is in turmoil at the technology that is encroaching upon our biology. 
 
 The best (well, easiest) way to contribute is using [Gitbook](https://www.gitbook.com/book/avastmick/consensus). Sign-up, download the editor and make changes then push up you changes and I will review (or whoever would like to take over).
 
+This is the `master` branch and is for information only. All changes should be made on the `edit` branch, with pull requests (for updates) to go into the `draft` branch.
+
+If you are more technical, please use a typical git workflow. Only do this if you _are_ technical and know what `git` is:
+
+```bash
+# Fork the https://github.com/avastmick/consensus repo
+git clone https://github.com/[your_username]/consensus.git
+cd consensus
+git checkout edit
+# make changes
+git commit -am 'Made some changes'
+git push
+# Create pull request [your_username]/consensus/edit -> avastmick/consensus/edit
+# Rinse and repeat
+```
+
 I'll post up more detailed instructions here as I get it all bedded in.
 
 
