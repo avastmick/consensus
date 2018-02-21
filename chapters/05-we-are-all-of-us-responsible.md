@@ -24,7 +24,7 @@ Then, one day, Toby, one of the devs, said he'd found a way of hacking into a co
 
 The Baptist Church didn't notice for over a month. But *ConnectU Services*, well, as soon as it was up, the shit hit the fan. And I was covered in it, up to my neck. They were pissed off, of course, but not because of Andrews' *Manifesto* -- no one cared about that except cranks like the *Human Association* and Charles Godwin, who saw it as a smoking gun, or something. No, they were pissed because of Melvin's link to *Bright Futures*. Because of his granddaughter, Sally Taylor. It was an embarrassment to them. And, of course, because they were a tech company, worse a tech company that sold security services to paying customers - and they were hacked by idiots. 
 
-<!-- To here -->
+<!-- To here mickclarke138 - changes-->
 
 They threw the sink at me. Ex-employee, radical, loner, loser. I was toast. And where were you and your merry band, Godwin? Fucking nowhere, that's where. You hung me out to fucking dry! The only reason I was in the US was because you had set it up. I was working for you. You got your coup. You got both Melvin Taylor and *Bright Futures* dragged through the mud. Did I get a reward? *Did I fuck! You did nothing, said nothing! You let me rot! You cunt!*" Lia was shouting at me now. Her face was fury; drops of spittle flicked from her lips as she raged in my face. The cafe was silent, staring at us.
 
