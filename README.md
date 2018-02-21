@@ -8,7 +8,7 @@ You want to do more than read the book? You want to write some of it, improve it
 
 ### TL;DR;
 
-Go to [avastmick.io](avastmick.io/contact/) and drop me a note. I'll add you as collaborator, using [gitbook.com](https://gitbook.com) and their nice desktop editor. Signing up is free and easy.
+Go to [avastmick.io](http://avastmick.io/contact/) and drop me a note. I'll add you as collaborator, using [gitbook.com](https://gitbook.com) and their nice desktop editor. Signing up is free and easy.
 
 ### Details, details
 
