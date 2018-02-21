@@ -1,35 +1,29 @@
 # Contributing
 
-The best way to contribute will be to use [Gitbook](https://www.gitbook.com/book/avastmick/consensus). 
-
-But, right now, the _easiest_ option is still highly technical - I'm working on it, but it is a limitation of the various editing platforms that exist for books.
+The best way to contribute is to use [Gitbook](https://www.gitbook.com/book/avastmick/consensus). Go to [avastmick.io](avastmick.io/contact/) and drop me a note. I'll add you as collaborator.
 
 ## TL;DR;
 
-- *Easy* - be technical!
-- *Hard* - use `Gitbook`:
+- Using `Gitbook.com`:
   - Sign-up, using whichever method you prefer
-  - Create your own version of `Consensus`
   - Download the `Gitbook` editor
   - Make changes then push up you changes and I will review.
-
-The problem is that the book is hosted on `Github.com`. I do this so I can easily control the versions of the chapters and merge in easily. From there I can automatically create eBook and PDF versions. **But,** this is rather more involved than the average person can manage. `Gitbook.com` comes close, but it still expects you to have a `Github.com` account, if you are going to collaborate...
+- `Technical` - see below!
 
 ## Step-by-step for `Gitbook.com`
 
-**A work in progress!**
+First, you need to know that the book is held in three versions: `master`, `draft` and `edit`.
 
-_Note:_ This README is on the `master` branch and is for information only. All changes should be made on the `edit` branch, with pull requests (for updates) to go into the `draft` branch.
+- This README is on the `master` branch and is for information only.
+- All changes should be made on the `edit` branch - can be experimental
+- The `draft` branch, is the publishable version of the book - so must of high quality.
 
 - Go to [gitbook.com](https://gitbook.com)
 - Sign-up, using whichever method you prefer
-- Create your copy of `Consensus`
-  - Click "+ New"...
-  - On the "Create a new book" screen, click the down arrow:
+- Send me your username or sign-up email on [avastmick.io](avastmick.io/contact/) and I will add you as a `collaborator`.
 
-*Some other stuff here about setting up a `Github.com` account and linking to your `Gitbook.com` account (argh!)*
+Sign-in to `Gitbook.com`, you should see `Consensus` as a book.
 
-- Wait until your book is ready (can take some time)
 - Click "Edit"...
 - Now select the working version - `edit`
 
@@ -43,10 +37,9 @@ _Note:_ This README is on the `master` branch and is for information only. All c
 
 You will now be able to see all of the current chapters and can edit any that you like.
 
-### Sending in your changes
+_Note:_ Please only make edits on the `edit` version.
 
-- Submit a "Pull Request"
-- *TODO:!*
+If you have downloaded the `Gitbook.com` desktop editor, the above should also be the same.
 
 ### Technical Folks
 

@@ -6,6 +6,12 @@ The world is in turmoil at the technology that is encroaching upon our biology. 
 
 You want to do more than read the book? You want to write some of it, improve it, make it better? Great!
 
+### TL;DR;
+
+Go to [avastmick.io](avastmick.io/contact/) and drop me a note. I'll add you as collaborator, using [gitbook.com](https://gitbook.com) and their nice desktop editor. Signing up is free and easy.
+
+### Details, details
+
 See [the Contribution page](Contributing.md) for step-by-step details.
 
 
