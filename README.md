@@ -1,4 +1,4 @@
-# consensus 
+# consensus
 
 The world is in turmoil at the technology that is encroaching upon our biology. At the centre of events is a dangerously sick young girl. Her despairing grandfather and grieving mother question the options offered to them. Will saving her life in fact mean losing her? Are interested parties using her situation for their own ends?
 
@@ -13,7 +13,6 @@ Go to [avastmick.io](http://avastmick.io/contact/) and drop me a note. I'll add 
 ### Details, details
 
 See [the Contribution page](Contributing.md) for step-by-step details.
-
 
 ## License
 

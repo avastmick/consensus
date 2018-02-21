@@ -7,6 +7,7 @@ The best way to contribute is to use [Gitbook](https://www.gitbook.com/book/avas
 - Using `Gitbook.com`:
   - Sign-up, using whichever method you prefer
   - Download the `Gitbook` editor
+  - Send me a request to add you as a collaborator
   - Make changes then push up you changes and I will review.
 - `Technical` - see below!
 
@@ -22,7 +23,7 @@ First, you need to know that the book is held in three versions: `master`, `draf
 - Sign-up, using whichever method you prefer
 - Send me your username or sign-up email on [avastmick.io](http://avastmick.io/contact/) and I will add you as a `collaborator`.
 
-Sign-in to `Gitbook.com`, you should see `Consensus` as a book.
+Once I've added you as a collaborator, sign-in to `Gitbook.com`, you should now see `Consensus` as a book.
 
 - Click "Edit"...
 - Now select the working version - `edit`
