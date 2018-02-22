@@ -21,7 +21,7 @@ First, you need to know that the book is held in three versions: `master`, `draf
 
 - Go to [gitbook.com](https://gitbook.com)
 - Sign-up, using whichever method you prefer
-- Send me your username or sign-up email on [avastmick.io](http://avastmick.io/contact/) and I will add you as a `collaborator`.
+- Send me your username or sign-up email on [avastmick.io](https://avastmick.io/contact/) and I will add you as a `collaborator`.
 
 Once I've added you as a collaborator, sign-in to `Gitbook.com`, you should now see `Consensus` as a book.
 
