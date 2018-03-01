@@ -4,7 +4,7 @@ The world is in turmoil at the technology that is encroaching upon our biology. 
 
 ## This book is open source
 
-To read about why I have done this and join a conversation whether this is a good thing (or not!), read my post on [open source literation at avastmick.io](https://avastmick.io/blog/open-source-literature/)
+To read about why I have done this and join a conversation whether this is a good thing (or not!), read my post on [open source literature at avastmick.io](https://avastmick.io/blog/open-source-literature/)
 
 ## Contribution
 
