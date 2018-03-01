@@ -1,12 +1,16 @@
-# consensus
+# Consensus
 
 The world is in turmoil at the technology that is encroaching upon our biology. At the centre of events is a dangerously sick young girl. Her despairing grandfather and grieving mother question the options offered to them. Will saving her life in fact mean losing her? Are interested parties using her situation for their own ends?
+
+## This book is open source
+
+To read about why I have done this and join a conversation whether this is a good thing (or not!), read my post on [open source literation at avastmick.io](https://avastmick.io/blog/open-source-literature/)
 
 ## Contribution
 
 You want to do more than read the book? You want to write some of it, improve it, make it better? Great!
 
-### TL;DR;
+### TL;DR
 
 Go to [avastmick.io](https://avastmick.io/contact/) and drop me a note. I'll add you as collaborator, using [gitbook.com](https://gitbook.com) and their nice desktop editor. Signing up is free and easy.
 
